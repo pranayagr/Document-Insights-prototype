@@ -1,0 +1,25 @@
+
+# Chunking Strategy
+
+Following are the pointers outlining key decisions and logic used to preprocess and chunk the given documents for downstream retrieval and QA.
+
+1. **OCR-based Structured Extraction with Section Tags**  
+   Each PDF is converted to high-resolution images and passed to a GPT-based OCR system to extract structured content. 
+   Section headings (e.g., “Payroll”, “Conflict of Interest”) are retained as semantic labels. 
+   These tags are used to logically segment content and associate metadata with each chunk.
+
+2. **Section-Preserving Chunk Granularity**  
+   Extracted sections are tokenized into ~250-word text blocks. This chunk size balances semantic richness and retrieval granularity. 
+   The chunking preserves conceptual boundaries by not splitting mid-sentence or across different policy sections.
+
+3. **Token Overlap for Context Preservation**  
+   To prevent information loss at chunk boundaries, a 50-word overlap is added between consecutive chunks using a sliding window strategy. 
+   This overlap ensures better context retention for question-answering, especially when the answer spans multiple chunks.
+
+4. **Robust Text Cleaning for Embedding Compatibility**  
+   Each chunk is cleaned using a normalization function that removes newline characters, redundant whitespace, excessive punctuation, and formatting artifacts 
+   (e.g., repeated hyphens or tabs). This ensures that the embeddings focus on semantically meaningful content only.
+
+5. **Metadata Enrichment for Traceability**  
+   Every chunk is annotated with a unique `chunk_id`, its topic (inferred from headings), source document name, and originating page number. 
+   This metadata enables traceable retrieval, detailed answer citations, and conflict detection across documents.
