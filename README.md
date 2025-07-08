@@ -1,4 +1,3 @@
-
 # Document Insights Prototype
 
 This project is a RAG-based intelligent assistant designed to help internal employees of a financial organization ask questions about internal policy documents and receive accurate, contextual answers.
