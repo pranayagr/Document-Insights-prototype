@@ -1,0 +1,931 @@
+[
+  {
+    "question": "[",
+    "retrieved_context": [
+      {
+        "score": 0.23222552275625413,
+        "context": "May 3, 2016 DRAFT – Pending HUD Legal Counsel Review",
+        "source": "sample_fin_mgmt_policy",
+        "section": "General"
+      },
+      {
+        "score": 0.1747891087653888,
+        "context": "The purpose of form HUD-52736A is similar to HUD-52736A, except that this form shall be used when the TRIBE/TDHE uses a Broker-Dealer for investing NAHADA funds. In this agreement, the Broker/Dealer warrants and represents that it is registered as a broker-dealer under the Securities Exchange Act of 1934(15 U.S.S. 78a et seq.) with the Securities and Exchange Commission and shall be a member of the Securities Investor Protection Corporation (SIPC). A copy of the agreement form should be kept on file.",
+        "source": "sample_fin_mgmt_policy",
+        "section": "Form HUD-52736B: Depository Agreement (Brokers/Dealers):"
+      },
+      {
+        "score": 0.16778960988601177,
+        "context": "LUBBOCK CHAMBER OF COMMERCE CATALYST • CONVENER • CHAMPION 1500 Broadway, Suite 101 Lubbock, TX 79403 806.761.0000 www.lubbockchamber.com",
+        "source": "a_2.1_financial_policy_manual_lubbock_chamber_of_commerce_11.19",
+        "section": "General"
+      },
+      {
+        "score": 0.16666926234988788,
+        "context": "This form is used to open an account that shall serve as a single bank account for the deposit of all payments that are received from HUD through the Electronic Line of Control System (\"eLOCCS\"). A copy of the agreement form should be kept on file.",
+        "source": "sample_fin_mgmt_policy",
+        "section": "Form HUD-51999: General Depository Agreement."
+      },
+      {
+        "score": 0.16245443197123954,
+        "context": "I. The TRIBE/TDHE shall maintain a property ledger for all units developed and improvements made to real estate in order to ensure that amounts expended comply with applicable Total Development Costs (\"TDC\") and/or Dwelling Construction and Equipment (\"DC&E\") requirements. The amount of IHBG assistance (including TDC, DC&E and/or any amounts expended on repair and modernization) shall be tracked for useful life purposes. II. The TRIBE/TDHE shall track and determine whether the income derived from units developed under the 1937 Housing Act should be classified as program income upon conveyance of each unit. Income shall be classified as program income if the rehabilitation and modernization costs attributed to any unit developed under the 1937 Housing Act exceeded forty percent (40%) of the DC&E amount of such unit.",
+        "source": "sample_fin_mgmt_policy",
+        "section": "b) REAL PROPERTY PROCEDURES"
+      },
+      {
+        "score": 0.16153980217424588,
+        "context": "If the TRIBE/TDHE chooses this option, it shall be responsible for submitting the reporting package directly to any pass-through entities through which it has received a Federal award and to pass-through entities for which the summary schedule of prior audit findings reported the status of any findings related to Federal awards that the pass-through entity provided.",
+        "source": "sample_fin_mgmt_policy",
+        "section": "General"
+      },
+      {
+        "score": 0.1600757204035767,
+        "context": "2. In the event of tenant ledger adjustments, the Occupancy Specialist of the Department or his/her designee will complete an adjustment request for submission to the employee designated by the Department Director as having responsibility for tenant ledger maintenance. 3. The adjustment request shall be in writing with the proper justification noted on and/or attached with each request. 4. The employee designated by the Department Director as having responsibility for tenant ledger maintenance shall make the proper adjustment in the tenant accounting software ledger. 5. The employee designated by the Department Director as having responsibility for tenant ledger maintenance shall provide a copy of the completed adjustment report to the Occupancy Specialist to show completed tenant ledger adjustment.",
+        "source": "sample_fin_mgmt_policy",
+        "section": "General"
+      },
+      {
+        "score": 0.15647540556840334,
+        "context": "1. An employee designated by the Department Director shall maintain all tenant ledgers.",
+        "source": "sample_fin_mgmt_policy",
+        "section": "B. Special Procedures Regarding Tenant Accounting"
+      },
+      {
+        "score": 0.153898367421067,
+        "context": "Each proposed affinity/value added program will be reviewed in comparison to the above guidelines by a task force or staff review appointed for that purpose. Any affinity or value added program must be approved by the Executive Committee after consideration by a task force or proposed after staff review.",
+        "source": "a_2.1_financial_policy_manual_lubbock_chamber_of_commerce_11.19",
+        "section": "General"
+      },
+      {
+        "score": 0.1482619497371511,
+        "context": "a HUD-27054. - The form specifies the Business Partner(s) and HUD Programs the user is authorized to access within eLOCCS. - A Tribe may allow multiple authorized users to query or draw down funds. - The form is to be approved by the recipient’s or grantee’s Executive Director, Administrator or the President of the Tribe. - Keep a copy and send a NOTARIZED copy to HUD. 2. HUD – 50080-IHBG: LOCCS/VRS PAYMENT VOUCHER.",
+        "source": "sample_fin_mgmt_policy",
+        "section": "APPENDIX 2: PROCEDURES TO IMPLEMENT THE REQUIREMENTS OF 200.305 PAYMENT"
+      },
+      {
+        "score": 0.14816120719914644,
+        "context": "In eLOCCS, fill out and transmit form HUD-50080 online to request a grant advance or reimbursement of eligible NAHASDA expenses.",
+        "source": "sample_fin_mgmt_policy",
+        "section": "General"
+      },
+      {
+        "score": 0.14574890589874775,
+        "context": "7) All Accounts Payable records will be stored by fiscal year and alphabetized by vendor. 8) All Accounts Receivable and Payroll records will be stored by fiscal year.",
+        "source": "Sample-Nonprofit-Financial-Policies-and-Procedures-Manual-Resource",
+        "section": "General"
+      },
+      {
+        "score": 0.14275621353766166,
+        "context": "- All checks and cash receipts received through the mail are restrictively endorsed",
+        "source": "a_2.1_financial_policy_manual_lubbock_chamber_of_commerce_11.19",
+        "section": "Cash Receipts"
+      },
+      {
+        "score": 0.13710995890779587,
+        "context": "Anyone filing a complaint concerning a violation or suspected violation of the Code must be acting in good faith and have reasonable grounds for believing the information disclosed indicates a violation of the Code. Any allegations that prove not to be substantiated and which prove to have been made maliciously or knowingly to be false will be viewed as a serious disciplinary offense.",
+        "source": "Sample-Nonprofit-Financial-Policies-and-Procedures-Manual-Resource",
+        "section": "Acting in Good Faith"
+      },
+      {
+        "score": 0.13637317151998402,
+        "context": "This form is used to establish an account with a banking institution (Depository) as a depository for funds borrowed by the TRIBE/TDHE and guaranteed under Title VI of NAHASDA, and for investment purposes for approved reserve accounts and/or NAHASDA IHBG grant funds pre-approved for investments. The funds must comply with investments prescribed by HUD. A copy of the agreement form should be kept on file.",
+        "source": "sample_fin_mgmt_policy",
+        "section": "Form HUD-52736A: Depository Agreement Banking Accounts."
+      },
+      {
+        "score": 0.1351232213112988,
+        "context": "All database changes will be forwarded to the Customer Service Representative in writing. An email or member profile sheet from the membership database can be used for this purpose. The change reason is noted in the data base system. The profile sheet is then kept as documentation of the change.",
+        "source": "a_2.1_financial_policy_manual_lubbock_chamber_of_commerce_11.19",
+        "section": "Database Changes"
+      },
+      {
+        "score": 0.1341950011757699,
+        "context": "See the County’s Procurement Code.",
+        "source": "Financial Policies (PDF)",
+        "section": "Procurement"
+      },
+      {
+        "score": 0.13366381167733732,
+        "context": "The TRIBE/TDHE’s purchases shall be governed by its Council/Board approved procurement policy, which establishes guidelines to ensure reasonable buying practices and competition, quality and integrity.",
+        "source": "sample_fin_mgmt_policy",
+        "section": "PURCHASE OF GOODS AND SERVICES"
+      },
+      {
+        "score": 0.13360713506483318,
+        "context": "SECTION VII: Criteria for Endorsements and Affinity Programs The following is a description of criteria set by the Lubbock Chamber of Commerce (LCC) Board of Directors for affinity programs. To make this process as systematic as possible, LCC, its staff and volunteers follow the described set of criteria to begin negotiations with vendors before establishing a new affinity/value added program.",
+        "source": "a_2.1_financial_policy_manual_lubbock_chamber_of_commerce_11.19",
+        "section": "Financial Policies"
+      },
+      {
+        "score": 0.13185889189739047,
+        "context": "It is the policy of Nonprofit Organization that all checks received that are payable to the Organization shall immediately be restrictively endorsed. The restrictive endorsement shall be a rubber stamp that includes the following information: 1. For Deposit Only 2. Nonprofit Organization 3. The bank name 4. The bank account number of Nonprofit Organization",
+        "source": "Sample-Nonprofit-Financial-Policies-and-Procedures-Manual-Resource",
+        "section": "Endorsement of Checks"
+      },
+      {
+        "score": 0.13079597240371726,
+        "context": "c. Department Approval – Invoices are approved by the Departments the items were received. d. Contracts – Major purchases will require following the Procurement Code, which may include the Commissioners’ approval of the contract.",
+        "source": "Financial Policies (PDF)",
+        "section": "General"
+      },
+      {
+        "score": 0.13075959853808122,
+        "context": "SAMPLE FINANCIAL MANAGEMENT POLICY AND PROCEDURES (TRIBES/TDHE’S ADMINISTERING THE INDIAN HOUSING BLOCK GRANT) May 3, 2016 DRAFT – Pending HUD Legal Counsel Review",
+        "source": "sample_fin_mgmt_policy",
+        "section": "General"
+      },
+      {
+        "score": 0.13005786897043448,
+        "context": "The County will maintain accurate inventories of capital assets, their condition, life span and cost.",
+        "source": "Financial Policies (PDF)",
+        "section": "Inventories"
+      },
+      {
+        "score": 0.12731221930610073,
+        "context": "Detailed records of individual capital assets shall be kept and periodically (at least annually) balanced with the general ledger accounts. Adjustments for depreciation should be made as necessary. VII. The TRIBE/TDHE shall make a physical inventory of all equipment and property (other than real estate) at least annually, which shall be reconciled to the general ledger accounts.",
+        "source": "sample_fin_mgmt_policy",
+        "section": "General"
+      },
+      {
+        "score": 0.12711864309244425,
+        "context": "Introduction, Manual Protocol, and Accounting Guidelines and Internal Controls 3 Annual Audit 4 Annual Budget, Financial Statements 5 Insurance Coverage, Security 6 Record Retention 7 Cash Receipts and Revenue Processing 8 Cash Disbursements and Accounts Payable Processing 9 Travel Expense Reimbursement 11 Payroll and Human Resources 12 Net Asset Classifications 16 Notes Payable 17 Board Conflict of Interest Policy 18 Whistleblower Policy 20 Code of Conduct 21",
+        "source": "Sample-Nonprofit-Financial-Policies-and-Procedures-Manual-Resource",
+        "section": "Table of Contents"
+      },
+      {
+        "score": 0.12623481349574697,
+        "context": "Violations or suspected violations may be submitted on a confidential basis by the complainant or may be submitted anonymously. Reports of violations or suspected violations will be kept confidential to the extent possible, consistent with the need to conduct an adequate investigation.",
+        "source": "Sample-Nonprofit-Financial-Policies-and-Procedures-Manual-Resource",
+        "section": "Confidentiality"
+      },
+      {
+        "score": 0.1253574238480984,
+        "context": "SECTION IX: Accounting Procedures",
+        "source": "a_2.1_financial_policy_manual_lubbock_chamber_of_commerce_11.19",
+        "section": "Financial Policies"
+      },
+      {
+        "score": 0.12525562147928,
+        "context": "As the result of a natural disaster, accident or unforeseen event, the County will follow the Emergency Declaration enacted by the Commissioners.",
+        "source": "Financial Policies (PDF)",
+        "section": "Emergencies"
+      },
+      {
+        "score": 0.12478825892983338,
+        "context": "1. The number of full-time positions and dollar amount for total regular staff, temporary staff and overtime by Department. 2. The dollar amount for supplies and services (category) for each Department. 3. Each specific capital request, including startup cost and ongoing maintenance. 4. The total expenditure from each fund, including transfers in and out. 5. The Commissioners will approve specific contracts per the Procurement Code.",
+        "source": "Financial Policies (PDF)",
+        "section": "General"
+      },
+      {
+        "score": 0.1241620693180031,
+        "context": "Tribes/TDHEs who are not eligible, or who do not choose to receive payment on their entire IHBG grant funds in advance for investment purposes, may request",
+        "source": "sample_fin_mgmt_policy",
+        "section": "III. ADVANCE PAYMENT REQUEST FOR INCURRED EXPENSES:"
+      },
+      {
+        "score": 0.12320394396841056,
+        "context": "Note to Users: The sample policies and procedures included herein should only be used as a guide in developing policies and procedures applicable to your particular organization. Users should carefully read the accompanying instructions and eliminate, add to, or modify these policies and procedures as necessary to customize them for your organization. These sample policies and procedures are copyrighted materials of Financial Technologies & Management. Purchasers are authorized to use these materials only for one particular not-for-profit organization. Additional uses for multiple organizations or any other copying, reselling or redistribution of these policies and procedures are expressly prohibited. Copyright © 2019",
+        "source": "Sample-Nonprofit-Financial-Policies-and-Procedures-Manual-Resource",
+        "section": "General"
+      },
+      {
+        "score": 0.121744790431181,
+        "context": "(eLOCCS). HUD prescribes specific procedures for a TRIBE/TDHE to set up a bank account and investment accounts with a bank or a broker/dealer. These are: Banking and services shall be arranged through competitive solicitation, when practical under the circumstances. The depository must be a financial institution that is sufficiently insured by the Federal Deposit Insurance Corporation (\"FDIC\") or National Credit Union Share Insurance Fund (\"NCUSIF\"). The following HUD forms shall be executed when receiving HUD funds for the following purposes:",
+        "source": "sample_fin_mgmt_policy",
+        "section": "General"
+      },
+      {
+        "score": 0.12170674939335363,
+        "context": "No director, officer or employee who in good faith reports a violation of the Code shall suffer harassment, retaliation or adverse employment consequence. An employee who retaliates against someone who has reported a violation in good faith is subject to discipline up to and including termination of employment. This Whistleblower Policy is intended to encourage and enable employees and others to raise serious concerns within the Organization prior to seeking resolution outside the Organization.",
+        "source": "Sample-Nonprofit-Financial-Policies-and-Procedures-Manual-Resource",
+        "section": "No Retaliation"
+      },
+      {
+        "score": 0.12143764642869782,
+        "context": "5. The Finance Director of the TRIBE/TDHE or his/her designee shall reconcile the investment ledger on a monthly basis, and shall provide a report regarding investment performance to the Council/Board on a quarterly basis. Discrepancies shall be reported to the Executive Director and/or the Council/Board, promptly investigated and resolved. 6. The Finance Director of the TRIBE/TDHE or his/her designee shall maintain a maturity schedule evidencing that the proposed investments will mature on the approximate dates the funds will be needed and that investment maturity dates do not exceed five (5) years from the date the funds are drawn down for investment purposes from the LOCCS or such longer period as may be permitted by HUD. May 3, 2016 DRAFT – Pending HUD Legal Counsel Review",
+        "source": "sample_fin_mgmt_policy",
+        "section": "General"
+      },
+      {
+        "score": 0.12117860549658738,
+        "context": "NONPROFIT ORGANIZATION Financial Policies and Procedures Manual Provided by: Financial Technologies & Management Copyright © 2019",
+        "source": "Sample-Nonprofit-Financial-Policies-and-Procedures-Manual-Resource",
+        "section": "General"
+      },
+      {
+        "score": 0.1206496368372075,
+        "context": "The LRP will be submitted to the Commissioners for approval at least twice a year. The first update will follow the closing of the year and will include a final comparison of actual to budget for the completed year. The second report will be presented before the presentation of the annual budget and will include an update of the current budget and estimates. 9. Rate Structures - The plans must disclose revenue assumptions including rate structures and consumption. The LRP will include annual rate increases based on inflation unless the Commissioners overrides this direction. 10. Staffing – The plans will identify staffing levels including justification for any changes. 11. Expenditures – The plans will include expenditures based on the service levels/policies and workload indicators (population, strategy, etc.) approved by the Commissioners. 12. Include Reserves – The plan will include reserves for operations, capital and debt service coverage as established in Financial Policies and/or as required to issue bonds.",
+        "source": "Financial Policies (PDF)",
+        "section": "General"
+      },
+      {
+        "score": 0.12051365049414761,
+        "context": "All members of our staff, Board, Committees and all volunteers will:",
+        "source": "Sample-Nonprofit-Financial-Policies-and-Procedures-Manual-Resource",
+        "section": "Professional Excellence"
+      },
+      {
+        "score": 0.11960204852687241,
+        "context": "Assessment district financing is appropriate for those areas of the County that are retroactively installing physical plant features which are normally required by subdivision standards at the time of development, or which have been funded by another assessment district. Such physical plant features include curbs, gutters, sidewalks, streetlights, and sewers. Assessment districts are also appropriate in cases where these types of physical plant features are being upgraded for the benefit of property owners in the area. Unless otherwise directed by the Commissioners, assessment districts will include all costs associated with the project, including overhead and indirect costs, including but not limited to financing, and administrative costs. The County will take actions to ensure financial risks to the County are minimized.",
+        "source": "Financial Policies (PDF)",
+        "section": "Alternate Funding"
+      },
+      {
+        "score": 0.11714087237521369,
+        "context": "The County is committed to professional and progressive leadership. To maintain our position as leaders in the Community and region, it may be beneficial to provide training for the Commissioners or Planning Commission regarding key management and or technical issues. Travel for these members will be included in the annual budget.",
+        "source": "Financial Policies (PDF)",
+        "section": "Education and Training for Commissioners and Statutory Boards"
+      },
+      {
+        "score": 0.11690644794116647,
+        "context": "The budget will provide sufficient funding for adequate maintenance and scheduled replacement and enhancement of capital plant and equipment. Whenever the Amp identifies there is a significant discrepancy between the need to maintain/modernize County infrastructure of facilities and the funds available for such improvements, the Staff will prepare and present to strategies for meeting this need to the Commissioners. The LRP of the County will include all costs identified in the AMP.",
+        "source": "Financial Policies (PDF)",
+        "section": "Planned Funding"
+      },
+      {
+        "score": 0.11636757173645701,
+        "context": "Donated assets shall be recorded at their fair market value (FMV) at the time of donation. The TRIBE/TDHE may depreciate the donated asset, but is prohibited from charging the value of the donated item, or costs associated with the donated asset to the federal award. Depreciation of assets is allowable using the straight-line method. Any other depreciable method used by the TRIBE/TDHE must be pre-approved by HUD. Adjustments for depreciation should be made as necessary, and tracked with a capital asset depreciation schedule. At a minimum, the schedule should include: Capital asset classification (for example, Land, Equipment, Building), description of the assets, initial costs or FMV of the donated asset, depreciable life, date purchased, accumulated depreciation, current year depreciation, and net asset value at the end of the year.",
+        "source": "sample_fin_mgmt_policy",
+        "section": "General"
+      },
+      {
+        "score": 0.11625497879960625,
+        "context": "The administration and investment of the TRIBE/TDHE’s Indian Housing Block Grant (IHBG) requires the establishment of bank and investment accounts which can only be accessed through the Electronic Line of Credit Control System",
+        "source": "sample_fin_mgmt_policy",
+        "section": "16. BANKING AND INVESTING SERVICES"
+      },
+      {
+        "score": 0.11597832041049311,
+        "context": "The Tribe/TDHE is not required to expend retained program income before drawing down or expending IHBG funds. IHBG program income may be used for any housing or related activity and is not subject to other",
+        "source": "sample_fin_mgmt_policy",
+        "section": "V. PROGRAM INCOME USE"
+      },
+      {
+        "score": 0.1157716739637077,
+        "context": "Only designated Chamber staff members are authorized to make purchases on behalf of LCC. Volunteers should direct requests for such expenditures to LCC. A Chamber staff member will handle all purchases, subject to budgetary constraints.",
+        "source": "a_2.1_financial_policy_manual_lubbock_chamber_of_commerce_11.19",
+        "section": "Authorized Purchasers"
+      },
+      {
+        "score": 0.11577043812501969,
+        "context": "The Compliance Officer will notify the sender and acknowledge receipt of the reported violation or suspected violation within five business days. All reports will be promptly investigated and appropriate corrective action will be taken if warranted by the investigation.",
+        "source": "Sample-Nonprofit-Financial-Policies-and-Procedures-Manual-Resource",
+        "section": "Handling of Reported Violations"
+      },
+      {
+        "score": 0.1154497713453045,
+        "context": "When an actual, perceived, or potential conflict is identified by any person, the following action must be taken: 1. The Board or committee member identifies the actual, perceived or potential conflict; 2. The Board or committee member must fully disclose the conflict to the Chairperson and, where appropriate, to all Board or committee members; 3. The Chairperson shall develop an appropriate response, including where necessary, disqualification from voting and discussion and any necessary remedial action. For example, if a vote may have been affected by a previously undeclared conflict of interest, it may be necessary to hold that vote again. 4. Where a potential conflict of interest is identified, the following options may be",
+        "source": "Sample-Nonprofit-Financial-Policies-and-Procedures-Manual-Resource",
+        "section": "Procedure"
+      },
+      {
+        "score": 0.11494354313282659,
+        "context": "to meet unexpected small increases in service delivery costs. - The priority of the County will be to maintain target reserves by individual funds based on the above target. The Commissioners may identify specific reserves on an individual basis. When a cash reserve deficit exists, the Commissioners will identify the specific fund to offset the deficit and a plan to increase the reserve in the fund.",
+        "source": "Financial Policies (PDF)",
+        "section": "Fund Reserves"
+      },
+      {
+        "score": 0.114302524709163,
+        "context": "This Policy is based on the principle of separation of duties. Accordingly, no single person shall have the authority to authorize a transaction, execute a transaction, record a transaction, and have custody of any resulting assets.",
+        "source": "sample_fin_mgmt_policy",
+        "section": "A. Separation of Duties"
+      },
+      {
+        "score": 0.11407292654418753,
+        "context": "LCC shall purchase and maintain insurance on behalf of any person who is serving at the request of LCC, as a Director, Officer, Employee, Agent, Staff Volunteer or other enterprise, against any liability asserted against him or her and incurred by him or her in any such capacity, or arising out of his or her status as such.",
+        "source": "a_2.1_financial_policy_manual_lubbock_chamber_of_commerce_11.19",
+        "section": "SECTION III: Indemnity Policy"
+      },
+      {
+        "score": 0.11393918135319568,
+        "context": "1. The TRIBE/TDHE shall have written authorizations on file for all employees that cover their rates of pay, withholdings and deductions. 2. The Finance Manager or his/her designee shall establish adequate timekeeping controls (including the use of time sheets) and there shall be supervisory review and approval of all employee time/leave records prior to issuance of a check. 3. The Finance Director of the TRIBE/TDHE/TDHE or his/her designee shall prepare payroll checks.",
+        "source": "sample_fin_mgmt_policy",
+        "section": "E. Special Procedures Regarding Payroll Disbursement."
+      },
+      {
+        "score": 0.11393898029567723,
+        "context": "3. Statement of Cash Flows (Development Sheet) - reports the cash inflows and outflows of the organization in three categories: operating activities, investing activities, and financing activities 4. Statement of Functional Expenses (Summarized by Program Totals) – presents the expenses of the organization in both a natural, or objective, format and by function (i.e. which program or supporting service was served)",
+        "source": "Sample-Nonprofit-Financial-Policies-and-Procedures-Manual-Resource",
+        "section": "General"
+      },
+      {
+        "score": 0.1139365696475391,
+        "context": "the service to permit competitive bidding for the service. A request for proposal may also be issued any time that LCC President or a member of LCC’s Executive Committee believes that competition among members may improve the cost of the service.",
+        "source": "a_2.1_financial_policy_manual_lubbock_chamber_of_commerce_11.19",
+        "section": "Financial Policies"
+      },
+      {
+        "score": 0.11233492795917599,
+        "context": "Loans made between funds will not be charged interest.",
+        "source": "Financial Policies (PDF)",
+        "section": "Internal Loans"
+      },
+      {
+        "score": 0.11027106121039837,
+        "context": "Our Future – The County Staff, whenever possible, will take a long-term view of investments (people and resources) and emphasize quality operations which encourage productivity for today and the future. 5. Share Resources & Services – The County Staff will explore ways to share staff, training, resources and equipment/supplies to utilize resources more effectively. 6. Identify Funding for New Service Levels – Proposals to add new services or increase existing services will be presented with revenue alternatives to fund or subsidize the new service levels. This includes initial costs and ongoing operations. 7. Asset Management Plan – The budget will provide adequate maintenance of capital plant and equipment and for their orderly replacement. 8. Employee Programs – The County recognizes employees are the most valuable asset of the organization and commits to fund this resource appropriately including adequate funding for all retirement systems, benefit packages and employee incentive programs including training.",
+        "source": "Financial Policies (PDF)",
+        "section": "II. BUDGET POLICIES"
+      },
+      {
+        "score": 0.1098194266686123,
+        "context": "I. Physical assets, such as property and equipment, are an integral part of the operation of the TRIBE/TDHE and shall be safeguarded in much the same manner as cash assets. II. All Department property and equipment shall be stored in a secure place. III. The Finance Department of the TRIBE/TDHE shall maintain a property ledger in the book of accounts of the Department, which shall include a list of all capitalized items for inventory control purposes. IV. Detailed records of individual capital assets shall be kept and periodically (at least annually) balanced with the general ledger accounts. V. All property and equipment owned by the TRIBE/TDHE (other than real estate) shall be divided into two categories: Expendable items or Non-expendable items, defined as follows: i. Expendable items are purchased or donated items having a useful life of less than twelve (12) months and costing less than $5,000.00, and can be expended. ii. Non-expendable items are purchased or donated items having a useful life of more than twelve (12) months and costing more than $5,000.00. VI. The Finance Director of the TRIBE/TDHE or his/her designee for budgeting and financial control purposes shall capitalize non-expendable items.",
+        "source": "sample_fin_mgmt_policy",
+        "section": "CAPITALIZATION PROCEDURES"
+      },
+      {
+        "score": 0.10969202855056838,
+        "context": "- The vendor has a proven business track record reflected in reliable letters of reference. - If the vendor is a middleman, the organization providing the product has a proven business record reflected by reliable letters of reference. - If a new company, the vendors, employees and managers have a history of reliability with respect to proposed product. - The vendor has provided, as a part of the application, proof of its legal organizational structure.",
+        "source": "a_2.1_financial_policy_manual_lubbock_chamber_of_commerce_11.19",
+        "section": "Financial Policies"
+      },
+      {
+        "score": 0.1095600494305278,
+        "context": "The Staff will identify the estimated costs and potential funding sources for each capital project proposal before it is submitted to Commissioners for approval. This proposal will include capital construction as well as ongoing maintenance.",
+        "source": "Financial Policies (PDF)",
+        "section": "Identify Project Funding"
+      },
+      {
+        "score": 0.10904404554395344,
+        "context": "Code of Ethics and Conduct (\"Code\") requires directors, officers and employees to observe high standards of business and personal ethics in the conduct of their duties and responsibilities. As employees and representatives of the Organization, we must practice honesty and integrity in fulfilling our responsibilities and comply with all applicable laws and regulations.",
+        "source": "Sample-Nonprofit-Financial-Policies-and-Procedures-Manual-Resource",
+        "section": "General"
+      },
+      {
+        "score": 0.10895186091820375,
+        "context": "entered into the TRIBE/TDHE’s accounting system. Examples include checks, invoices, copies of checks and receipts, timesheets, etc. The TRIBE/TDHE must maintain records which adequately identify the source and application of funds provided. For example: a. Federal Awards: All Federal awards received and expended by the TRIBE/TDHE must be properly identified and accounted for and must include, as applicable, the Catalog of Federal Domestic Assistance (CDFA) title and number, grant identification number and year, name of the federal agency, and the name of the pass-through entity, if any. b. State and Local Awards: All State and Local awards received and expended by the TRIBE/TDHE must be properly identified and accounted for and must include, as applicable, the title and name of the grant award, the award number and the year, and the name of the pass-through entity, if any. The TRIBE/TDHE must maintain source documents that adequately support the grant award, authorizations, obligations, unobligated balances, assets, expenditures, income and interest.",
+        "source": "sample_fin_mgmt_policy",
+        "section": "General"
+      },
+      {
+        "score": 0.10850392515047891,
+        "context": "Asset expenditures of over $500.00, for either a new purchase or an addition to an existing asset which increases its life, shall be reflected on a schedule of fixed assets and depreciated over an appropriate useful life. Assets with long-term use will be depreciated straight line over time with a full year of depreciation taken in the year of acquisition, based on the following schedule: Asset Type Depreciation Period - - Furniture and office equipment 5 - 7 Years Building Improvements 10 Years Artwork 10 Years",
+        "source": "a_2.1_financial_policy_manual_lubbock_chamber_of_commerce_11.19",
+        "section": "Fixed Assets"
+      },
+      {
+        "score": 0.10806506751769762,
+        "context": "This policy and any later changes shall be submitted to the [Tribal Council or Board of Commissioners] (“Board”) for approval. The Council/Board is responsible for ensuring that any policy to be adopted is appropriate for the TRIBE/TDHE. The Council/Board appoints and delegates financial and budget authority to the Executive Director and the Finance Manager. The Finance Manager oversees the day-to-day financial management activities of the TRIBE/TDHE’s funds, ensuring the accuracy of the accounting records, internal controls are in place and adhered to, financial reports are prepared and communicated to the Executive Director timely. The Finance Manager, is responsible for the preparation and maintenance of the accounting software’s chart of accounts, maintenance of the general ledger, reconciliation of subsidiary system accounts such as cash management, accounts payable, accounts receivable, job costing, payroll, journal entries, and responsibility of preparing required reports for compliance with the Internal Revenue Service (IRS), State and Federal grant reporting requirements.",
+        "source": "sample_fin_mgmt_policy",
+        "section": "FINANCIAL RESPONSIBILITIES"
+      },
+      {
+        "score": 0.10794797831539274,
+        "context": "TRIBE/TDHE’s cash and investment funds may be from a variety of sources such as NAHASDA IHBG funds, non-restricted funds, unused donations, and program income. The Finance Director shall be responsible for providing monthly reports to the Executive Director, to include: • Book cash and investment position reports; • Cash flow projections for the following month; • Investments statements from the depository or the broker that show the activities of the accounts, such as amounts deposited and withdrawn, investment revenues, fees, and gains or losses on investment. If at any time, the Finance Director finds the TRIBE/TDHE in a potential cash deficiency situation, the Council/Board and the Executive Director must be notified immediately. Any cost allocable to a particular Federal award may not be charged to other Federal awards to overcome fund deficiencies, to avoid restrictions imposed by Federal statutes, regulations, or terms and conditions of the Federal awards, or for other reasons. For example, the TRIBE/TDHE shall not divert funds between programs and/or activities, even when such programs/activities are each assisted by HUD (for example, the HUD-funded Indian Housing Block Grant (“IHBG”) and Indian Community Development Block Grant (“ICDBG”) programs.",
+        "source": "sample_fin_mgmt_policy",
+        "section": "General"
+      },
+      {
+        "score": 0.10723466982144114,
+        "context": "The TRIBE/TDHE shall apply uniform rules for the TRIBE/TDHE’s records (including financial) and information which meet legal standards and best practices for effective records and information management for existing records and yet to be created records, and shall apply to all employees and contractors who generate information for the TRIBE/TDHE. The TRIBE/TDHE shall ensure: - Control of all the TRIBE/TDHE’s information, regardless of media form; - Records are retained in accordance with legal, business and federal, state, and local government program requirements; - Records are maintained and stored in a manner that is secure and accessible through the retention period; - Appropriate safeguards are in place against illegal access, removal, loss, or destruction of the TRIBE/TDHE’s records and information; - Disposal of records and information is performed in accordance with an approved records retention schedule. In addition to the TRIBE/TDHE’s general records and information retention policy, the TRIBE/TDHE shall also comply with the NAHASDA program requirements on records management in accordance with 1000.552, wherein:",
+        "source": "sample_fin_mgmt_policy",
+        "section": "7. RECORDS AND INFORMATION MANAGEMENT"
+      },
+      {
+        "score": 0.10636408149543958,
+        "context": "shall never be written for “cash.” 9. Checks shall not be signed or countersigned in advance of being completely filled out. Each check shall be accompanied by adequate supporting documentation, including invoices, travel vouchers, etc. 10. All checks shall require the signature of at least two (2) individuals properly authorized by the TRIBE/TDHE. 11. Whenever possible, no individual shall sign a check on which he/she is the payee. 12. Check signers shall review each check carefully and shall not sign any check that lacks appropriate supporting documentation or exhibits signs of alteration. If it is necessary to change a check, the check must be voided and a new check issued. 13. The signed check shall be mailed or delivered to the payee by the Accounts Payable Clerk of the TRIBE/TDHE or his/her designee. 14. The Finance Director of the TRIBE/TDHE or his/her designee shall reconcile bank statements of the Department. Discrepancies between any books of May 3, 2016 DRAFT – Pending HUD Legal Counsel Review",
+        "source": "sample_fin_mgmt_policy",
+        "section": "General"
+      },
+      {
+        "score": 0.10628734093178986,
+        "context": "advance payment via eLOCCS for eligible expenses incurred, but not yet paid for by the Tribe/TDHE. The requests may be made as often as is needed with eLOCCS. The timing and amount of the advance payments must be as close as is administratively feasible to the actual disbursements by the Tribe/TDHE for eligible program expenses that have been incurred, but not yet paid. To ensure timely distribution of funds, the Tribe/TDHE should request IHBG funds from eLOCCS after invoices have been verified and have been successfully processed and ready for payment. Once the funds are received, the Tribe/TDHE will be able to distribute payment to the vendors right away.",
+        "source": "sample_fin_mgmt_policy",
+        "section": "General"
+      },
+      {
+        "score": 0.10600050050618226,
+        "context": "With respect to the items of costs listed in 2 CFR 200.407 that require prior approval, specific to NAHASDA1000.(b)(1), these costs are allowable without the prior approval of HUD to the extent that they comply with the general policies and principles of 2 CFR 200. If a TRIBE/TDHE is awarded other federal grants that do not specifically allow written prior approval, the reasonableness and allocability of certain items of costs may be difficult to determine, therefore, in order to avoid subsequent disallowance or dispute based on unreasonableness and unallocability, 200.407 of the Uniform Guidance lists items of costs that the TRIBE/TDHE may seek prior approval in advance of the incurrence of the special or unusual costs.",
+        "source": "sample_fin_mgmt_policy",
+        "section": "V. PRIOR WRITTEN APPROVAL (PRIOR APPROVAL)"
+      },
+      {
+        "score": 0.10589788066580394,
+        "context": "- The proposal includes a realistic revenue projection against which this component of the program can be measured. - The program compensates LCC for intangible expenses, including staff time, postage, marketing, etc. - The program provides a positive cash flow annually to LCC or added value to Chamber members that supports a lower revenue marketing potential.",
+        "source": "a_2.1_financial_policy_manual_lubbock_chamber_of_commerce_11.19",
+        "section": "Revenue Stream"
+      },
+      {
+        "score": 0.1045689604780484,
+        "context": "immediately by the CSR and recorded in the cash receipts register (check log), listing the date received, payer, check number, and amount received. - The CSR will make a copy of the documentation for each cash receipt, and attach all copies to the daily deposit. - The Accounting Assistant shall prepare the Accounts Receivable posting, reports and deposits, attaching a copy of the deposit receipt to the cash receipts copies, and forwarding the entire package to the CFO daily. - If no deposit is made, a check log is printed for that day, indicating “No Deposit’ and forwarded to the CFO.",
+        "source": "a_2.1_financial_policy_manual_lubbock_chamber_of_commerce_11.19",
+        "section": "Financial Policies"
+      },
+      {
+        "score": 0.10439226826987627,
+        "context": "- The Membership Sales generates a membership application form and gives the application with payment to the Customer Service Representative (CSR) to log into the daily receipts log. - The CSR will enter the new member into the database system. - The Accounting Assistant will post the payment and make the member active. - A verification form is printed and forwarded to the new member to verify the accuracy of the information along with a new member packet. - Original applications are kept in the Member file and are scanned to be stored in the member profile within ChamberMaster.",
+        "source": "a_2.1_financial_policy_manual_lubbock_chamber_of_commerce_11.19",
+        "section": "New Members"
+      },
+      {
+        "score": 0.10423187026977176,
+        "context": "The County will develop an AMP that protects capital investments and will minimize future maintenance and replacement costs. The County will maintain accurate information on the condition, life span use and replacement cost of their capital assets to assist in long term planning. The AMP will also indicate future major repairs and their costs, utility costs and other operating costs. a. Equipment Replacement – The County will estimate its equipment replacement (items over $10,000 with a life greater than one year) and maintenance needs for the next five years, with updated projections each year. From this projection, a maintenance and replacement schedule will be developed and followed. b. Cash for Equipment – Equipment replacement should be financed on a pay-as-you-go basis. Equipment should be replaced on a useful life basis considering optimum trade in value and maintenance costs.",
+        "source": "Financial Policies (PDF)",
+        "section": "Asset Management Plan (AMP)"
+      },
+      {
+        "score": 0.10419689317939368,
+        "context": "To prepare the Payment Voucher and ensure proper documentation: a. make a list of vendor invoices and amounts to be paid; b. use the list and copies of the invoices as supporting documentation for the eLOCCS draw; and c. staple copies of the invoices to the HUD 50080 form that has the total amount requested, and file.",
+        "source": "sample_fin_mgmt_policy",
+        "section": "The LOCCS Program Area = IHBG Program Name = INDIAN HOUSING BLOCK GRANT"
+      },
+      {
+        "score": 0.1034748378753972,
+        "context": "FINANCIAL POLICIES Lake County Government I. FINANCIAL PLANNING POLICIES ......................................................................................... 1 II. BUDGET POLICIES .............................................................................................................. 3 III. ACCOUNTING, AUDITING & FINANCIAL REPORTING POLICIES .................................... 8 IV. REVENUE POLICIES .......................................................................................................... 11 V. OPERATING POLICIES ....................................................................................................... 12 VI. CAPITAL PLANNING & BUDGET POLICIES ..................................................................... 15",
+        "source": "Financial Policies (PDF)",
+        "section": "General"
+      },
+      {
+        "score": 0.10328598648239692,
+        "context": "As the recipient of federal awards, the TRIBE/TDHE bases its allowable cost principles on Subpart E of the Uniform Grant Guidance and shall expend IHBG funds only for activities that are expressly approved in the Indian Housing Plan (IHP). No moneys shall be expended for activities that are unallowable or that are included as a cost of any other federally-funded program in either the current or a prior year. The total cost of a federal award is the sum of the allowable direct and allocable indirect costs, less any applicable credits.",
+        "source": "sample_fin_mgmt_policy",
+        "section": "ALLOWABLE COSTS"
+      },
+      {
+        "score": 0.10239166402931195,
+        "context": "Allowable costs are those that: - are necessary and reasonable; - are allocable; - conform to any limitations or exclusions in the IHBG award; - consistent with policies and procedures; - follow accounting practices and standards; - treated consistently throughout the IHBG program; The Finance Director and program directors are responsible for monitoring the IHBG award and that all costs charged to their program budgets are accurate.",
+        "source": "sample_fin_mgmt_policy",
+        "section": "II. DETERMINING ALLOWABLE COSTS"
+      },
+      {
+        "score": 0.10233761637763955,
+        "context": "LCC accepts the following credit cards in payment of membership investments, sponsorships, event payments, and other services. - Visa (4**********) - MasterCard (5**********) - American Express (3**********) - Discover The following information must be obtained from the cardholder: - Card Type - Name on card - Card number (10 digits) - Expiration date - Address of cardholder - Telephone number of cardholder - Email address of the cardholder",
+        "source": "a_2.1_financial_policy_manual_lubbock_chamber_of_commerce_11.19",
+        "section": "Credit Card Receipts"
+      },
+      {
+        "score": 0.10167293952605294,
+        "context": "The application of any part of this policy shall rely heavily on the common sense of the group as a whole. Conflict of interest circumstances vary and the judgment and flexibility of the Board, committee, or working group must be preserved.",
+        "source": "Sample-Nonprofit-Financial-Policies-and-Procedures-Manual-Resource",
+        "section": "Common Sense Provision"
+      },
+      {
+        "score": 0.10103785120976125,
+        "context": "Immediately after the cash receipts are posted from the last check log of the month, invoices for all past due accounts are generated and mailed. All membership accounts 90 days past due are presented to the board of directors for cancellation approval.",
+        "source": "a_2.1_financial_policy_manual_lubbock_chamber_of_commerce_11.19",
+        "section": "Past Due Accounts"
+      },
+      {
+        "score": 0.10027339932802835,
+        "context": "1. Subject to the approval of HUD and the Council/Board, IHBG funds may be drawn from eLOCCS to be invested by the TRIBE/TDHE. A copy of the resolution authorizing each investment transaction shall be maintained in the official records of the Tribe/TDHE, with a copy provided to the Finance Director of the TRIBE/TDHE. 2. Any and all investment documents shall be kept in the custody of the Finance Director of the TRIBE/TDHE or his/her designee. Investment documents shall be safeguarded in a fireproof cabinet or safe, and shall be stored separately from other accounting records. 3. Investments shall be made only in the name of the TRIBE/TDHE, and shall be maintained in a custodian or trust account. The General Depository Agreement (Form HUD-52736B) shall be executed by a representative of the TRIBE/TDHE and the depository. An original HUD-52736B shall be maintained by the financial institution and the Finance Department of the TRIBE/TDHE. 4. Investments shall be recorded in detail in an investment ledger, which shall reflect any and all interest earned, collected and/or disbursed.",
+        "source": "sample_fin_mgmt_policy",
+        "section": "G. Investment Control Procedures"
+      },
+      {
+        "score": 0.10025188919564205,
+        "context": "Introduction A long-range plan (LRP) that estimates revenue and expenditure activity in the County, as impacted by regional and national economies, is necessary to support the Commissioners and Community in the decisions they make regarding County services. This planning must recognize the effects of economic cycles on the demand for services and the County’s Revenues. Financial planning should be designed to ensure the delivery of needed services as defined by policy and the Comprehensive Plan. Policies The financial planning and subsequent budgeting for all funds will be based on the following policies: 1. Three-Year Plans – The County will prepare annually a three (3) year financial LRP for each fund. Each plan will include revenues, expenditures and other sources and uses with sufficient detail to identify trends and items with major impact. 2. Conservative Revenue Estimates – Revenue estimates should be prepared on a conservative basis to minimize the possibility that economic fluctuations could imperil ongoing service programs during the budget year. 3. Include Contingencies – Expenditure estimates should anticipate contingencies that are foreseeable. 4. Include Asset Management Plan on LRP – The five-year Asset Management Plan (AMP) will include equipment, major maintenance, and associated expenses of less than $100,000. Major renovation or maintenance projects will be identified in the LRP.",
+        "source": "Financial Policies (PDF)",
+        "section": "I. FINANCIAL PLANNING POLICIES"
+      },
+      {
+        "score": 0.09996489766036523,
+        "context": "- The program provides a valid opportunity for LCC and its members without placing LCC as endorser or program sponsor in competition with its members. - To the extent that aspects of the program compete with Chamber members, the program has unique features that are not available at the local level. - The vendor's method of sales does not negatively impact LCC's product sales. - The vendor's product sales will not detract from current Chamber products or member investments.",
+        "source": "a_2.1_financial_policy_manual_lubbock_chamber_of_commerce_11.19",
+        "section": "Local Competition"
+      },
+      {
+        "score": 0.0998566261012968,
+        "context": "The Staff will develop, maintain and constantly seek to improve cash management systems, which ensure the accurate and timely account, investment, and security of all cash assets. All cash received by the County Departments will be deposited to the Cashier daily.",
+        "source": "Financial Policies (PDF)",
+        "section": "Cash Management Systems"
+      },
+      {
+        "score": 0.0989206734190326,
+        "context": "The Financial Plan (budget) and the Comprehensive Plan are considered the two key tools to provide a vision of the future and a method of accomplishing those goals. Based on the value of these two documents, the County will develop a methodology to cross reference both tools, to accomplish the goals of the Community, as expressed through the Commissioners.",
+        "source": "Financial Policies (PDF)",
+        "section": "Comprehensive Plan"
+      },
+      {
+        "score": 0.09785909608502091,
+        "context": "Accounting methods employed by the TRIBE/TDHE shall, at a minimum, satisfy such requirements as may be prescribed by federal or state laws, regulations or guidelines. Additional accounting methods shall be employed to satisfy applicable government accounting standards promulgated by such competent authoritative",
+        "source": "sample_fin_mgmt_policy",
+        "section": "ACCOUNTING METHODS & STANDARDS"
+      },
+      {
+        "score": 0.09688537561543961,
+        "context": "cost benefits. Salary ranges and benefit packages should be periodically reviewed with comparable communities based on population, general fund tax revenues and cost of living. Supplies and services should be constantly reviewed for efficiency and effectiveness, eliminating outdated programs and identifying appropriate citizen service levels. The operating budget should include the AMP to provide the most effective delivery of services. Debt is funded per required schedules, including reserves. Capital is budgeted based on priorities, available funding and estimated fund balances of impact fees. 5. County Manager Review – The County Manager will review the details of each proposed budget for efficiency and compliance with Commissioners’ direction. Department Directors may include supplemental budget requests in the annual budget request to the County Manager and ultimately the Commissioners.",
+        "source": "Financial Policies (PDF)",
+        "section": "B. Budget Preparation"
+      },
+      {
+        "score": 0.09629027938041285,
+        "context": "Each Nonprofit Organization employee must submit to the Administrative Assistant a signed and approved timesheet no later than Friday by 12:00 noon for the check processing to occur the following Wednesday following the close of each pay period. Timesheets shall be prepared in accordance with the following guidelines: 1. Each timesheet shall reflect all hours worked during the pay period (time actually spent on the job performing assigned duties), whether compensated or not 2. Timesheets shall be prepared in ink 3. Errors shall be corrected by crossing through the incorrect entry, filling in the correct entry, and placing the employee’s initials next to the change (i.e. employees shall not use “white out” or correction tape) 4. Employees shall identify and record hours worked based on the nature of the work performed;",
+        "source": "Sample-Nonprofit-Financial-Policies-and-Procedures-Manual-Resource",
+        "section": "Preparation of Timesheets"
+      },
+      {
+        "score": 0.09530688997752146,
+        "context": "Introduction The Capital Improvement Plan (CIP) has a significant impact on the image of the County. The following policies are designed to guarantee current and future projects are maintained at a quality level and capital projects do not restrict the County’s ability to provide basic services. The County must preserve its current physical assets and plan in an orderly manner for future capital investments, including operating costs associated with these projects. In addition to amenity improvements, the County must make the capital investment needed to support and enhance the delivery of basic services. This commitment becomes even more important because the demands for basic services biases funding priorities toward the operating services (sheriff’s office and recreation programs) versus infrastructure (streets and buildings), which could be an issue in the future. Capital expenditures include buildings, land, major equipment and other items which are of significant value and have a life greater than five years. Policies The planning, funding and maintenance of all capital projects will be based on the following policies: 1. **Bond Rating** – The County will maintain a strong bond rating consistent with other County goals. The County will maintain good communications with bond rating agencies about its financial condition. The County will follow a policy of full disclosure on every financial report and bond prospectus. 2. **Five Year Capital Plans** – Each Department with capital expenditures will develop and maintain five-year capital plans. This plan will include sources of funding and maintenance. 3. **Citizen Involvement** – The CIP",
+        "source": "Financial Policies (PDF)",
+        "section": "VI. CAPITAL PLANNING & BUDGET POLICIES"
+      },
+      {
+        "score": 0.09502496321271678,
+        "context": "3. Funding Subsidy – Funds that receive a fund subsidy in addition to fees and charges or dedicated revenues will include a rationale for the subsidy and a means for determining the annual level of that subsidy or conditions under which the subsidy should be eliminated.",
+        "source": "Financial Policies (PDF)",
+        "section": "General"
+      },
+      {
+        "score": 0.09494025248788324,
+        "context": "considered and combined as appropriate: o The Board or committee member with the conflict should not be involved in any aspect of the decision making process. o He or she may be present and/or participate in discussions but refrain from voting. o He or she will absent him or herself from any discussions in connection with the matter in question. o He or she may participate in initial discussions and then be asked to leave for further discussions before the vote. o He or she may vote or be present for the vote, but the vote will be done by confidential ballot o He or she may participate fully. The Board, committee or working group must agree in majority on the option or combination of options to be taken in any given conflict of interest situation. 5. Any Board or committee member may ask for a decision to be taken by secret ballot when dealing with a matter where there is a conflict of interest. 6. The official minutes of the meeting must record the potential conflict of interest and how it was avoided and/or dealt with. 7. When there is a failure to agree on whether a conflict of interest exists and/or how it is to be managed, the Chairperson (or if the potential conflict of interest involves him or her, the vice-chairperson) may seek legal counsel.",
+        "source": "Sample-Nonprofit-Financial-Policies-and-Procedures-Manual-Resource",
+        "section": "General"
+      },
+      {
+        "score": 0.09435330988937035,
+        "context": "of a card by an employee, including no documentation of purchases, is grounds for disciplinary action and may result in cancellation of the individual’s card. - Under no circumstances may cash advances be used on company issued credit cards. Nor should a Chamber employee ever use a company issued credit card to purchase fixed assets (equipment costing $500 or more) without proper approval from the CFO.",
+        "source": "a_2.1_financial_policy_manual_lubbock_chamber_of_commerce_11.19",
+        "section": "Financial Policies"
+      },
+      {
+        "score": 0.0935023552839569,
+        "context": "5. Use Proven Methods – The County will constantly test both its planning methodology and use of planning tools to provide information that is timely, accurate and widely disseminated to Citizens and Staff. 6. Complex Regional Economic System – The County recognizes it is in a complex, regional economic system. The County should have the capacity to evaluate and anticipate changes in both regional and national economic systems, to engage in strategic financial and management planning. The purpose of these plans will be to allow the Commissioners and Citizens to evaluate the impact of the financial needs of these programs on the regional economy and to coordinate funding needs with all funds. 7. Department Responsibilities – Department Directors and the Finance Department will share responsibility for the preparation of financial plans for operations and asset management needs. The County Manager will review and approve detailed work sheets used to generate the LRP. The Finance Department will assist in developing appropriate systems to monitor and update the LRP. 8. Regular Status Reports – The Staff will continually update the LRP when significant changes are anticipated. The Staff may distribute the LRP to the Commissioners at any time to inform the Commissioners. The LRP will be submitted to the Commissioners for approval at least twice a year. The first update will follow the closing of the year and will include a final comparison of actual to budget for the completed year. The second report will be presented before the presentation of the",
+        "source": "Financial Policies (PDF)",
+        "section": "General"
+      },
+      {
+        "score": 0.0930946238961997,
+        "context": "All County funds and operations must work to achieve the County’s mission and goals. 1. Number of Funds – The County will minimize the number of funds, Departments, programs and account codes. The funds will be categorized by standard GAAP functional classifications. The development of new funds, Departments, programs and accounts will be approved by the Finance Department. 2. Statement of Purpose – Each fund in the County will have a Statement of Purpose, consisting of the following: 1. Intent – Purpose(s) of the fund. 2. Revenue Restrictions – Source(s) of revenues to the fund and descriptions of restrictions. 3. Contingency – Amount and use of contingency, if any. Contingency levels shall be based on the uncertainties associated with the purposes of the fund or project. 4. Reserves – Amount and purpose of required reserves. Required reserves will be based on operating needs or debt needs and prudent management requirements.",
+        "source": "Financial Policies (PDF)",
+        "section": "A. Accounting Structure"
+      },
+      {
+        "score": 0.09300725399565754,
+        "context": "The budget will include transfers or overhead allocations for expenditures/services in the General Fund that benefit other County funds. The formula for calculating this transfer or overhead allocation may include revenues, staff and or supplies and services. The formula shall be reviewed annually.",
+        "source": "Financial Policies (PDF)",
+        "section": "Overhead Allocations"
+      },
+      {
+        "score": 0.092273699804781,
+        "context": "d. No other issues documented by the Area ONAP. 3. Invested IHBG funds must be held in one or more accounts separate from other funds for the Tribe/TDHE. Each investment fund account must be subject to a depository agreement approved by HUD. The Tribe/TDHE shall use the following HUD approved depository agreements: a. Form HUD-52736A (11/2013): For investments held in bank accounts; b. Form HUD-52736B (11/213): For investments managed by brokers/dealers. 4. The Tribe/TDHE must invest in interest bearing accounts and in eligible investment instruments pursuant to 24 CFR 1000.58, which consist of: a. Obligations of the United States; b. Obligations issued by Government sponsored agencies; c. Securities that are guaranteed or insured by the United States; d. Mutual (or other) funds registered with the Securities and Exchange Commission with invest only in obligations of the Unites States or securities that are guaranteed or insured by the United States. The Tribe/TDHE must also maintain a schedule of investments and should track revenues and earned interest, fees, and maturity dates. 5. Invested advance payments must be insured by the United States or fully collateralized to ensure protection of the funds, even in the event of bank failure. Collateralization shall consist of identifiable U.S. Government securities as prescribed by HUD and specific authority contained in the agreement permitting HUD to exercise its rights pursuant to 24 CFR § 1000.60. 6. The Tribe/TDHE is exempted from maintaining advance payments in interest bearing accounts if: a. The Tribe/TDHE receives less than $120,000 in federal",
+        "source": "sample_fin_mgmt_policy",
+        "section": "General"
+      },
+      {
+        "score": 0.09215277939957445,
+        "context": "It is the policy of Youth to utilize a purchase order system. A properly completed purchase order shall be required for each purchase decision (i.e. total amount of goods and services purchased, not unit cost), with the exception of travel advances and expense reimbursements, which require the preparation of a separate form described elsewhere in this manual. A properly completed Purchase Order shall contain the following information, at a minimum: 1. Specifications or statement of services required 2. Vendor name, address, point of contact and phone number 3. Source of funding (if applicable) 4. Delivery or performance schedules 5. Delivery, packing and transportation requirements 6. Special conditions (if applicable) 7. Catalog number, page number, etc. (if applicable) 8. Net price per unit, less discount, if any 9. Total amount of order 10. Authorized signature 11. Date PO prepared Purchase orders shall be pre-numbered, kept in a secure area in the accounting department, and issued upon request from an authorized purchaser. All purchase orders shall be recorded in a purchase order log.",
+        "source": "Sample-Nonprofit-Financial-Policies-and-Procedures-Manual-Resource",
+        "section": "Use of Purchase Orders"
+      },
+      {
+        "score": 0.09164957917133841,
+        "context": "Direct costs are those costs that can be identified specifically with a particular Federal award, such as IHBG, or other internally or externally funded activity, or that can be directly assigned to such activities relatively easily with a high degree of accuracy. Whether a cost is considered Direct or Indirect is determined by the Federal program and what it typically considers to be a direct cost versus indirect costs. The Tribe/TDHE should determine what costs it considers to be a direct cost or indirect cost and apply treatment of those costs consistently.",
+        "source": "sample_fin_mgmt_policy",
+        "section": "III. DIRECT COSTS"
+      },
+      {
+        "score": 0.09163386405057156,
+        "context": "Processing of Checks and Cash Received in the Mail For funds that are received directly, cash receipts are centralized to ensure that cash received is appropriately directed, recorded and deposited on a timely basis. Mail is opened and a listing of cash/checks received shall be prepared by the development director for all contributions. The development director will enter this information into the fundraising software. A deposit slip is prepared by the administrative assistant from the cash/checks",
+        "source": "Sample-Nonprofit-Financial-Policies-and-Procedures-Manual-Resource",
+        "section": "Cash Receipts and Revenue Processing"
+      },
+      {
+        "score": 0.09062863631106635,
+        "context": "5. Compensated absences (vacation, holiday, sick leave, etc.) should be clearly identified as such; 6. Timesheets shall be signed by the employee prior to submission. After preparation, timesheets shall be approved by Executive Directors or their designees, prior to submission to the administrative assistant. Corrections identified by an employee’s supervisor (Department Director) shall be authorized by the employee by placing the employee’s initials next to the change. An Organization employee who is on leave, on travel, or is ill on the day that timesheets are due may telephone or e-mail timesheet information to his or her supervisor (or designated alternate). Time so submitted must reflect the actual time worked and the appropriate classifications. The employee must initial a timesheet submitted in this manner immediately upon his/her return to the office. Timesheets submitted in this manner shall bear the notation, \"Time reported by telephone or e-mail by (employee) to (supervisor or designated alternate).\" The timesheet shall be signed by the supervisor or the designated alternate. Upon return of all payroll reports and checks, the Executive Director reviews payroll upon return from payroll company.",
+        "source": "Sample-Nonprofit-Financial-Policies-and-Procedures-Manual-Resource",
+        "section": "General"
+      },
+      {
+        "score": 0.09042875739132902,
+        "context": "The TRIBE/TDHE recognizes the importance of cash management to insure there are sufficient funds to pay for the expenses of operating the TRIBE/TDHE’s housing programs. The Finance Director shall be responsible for monitoring the daily cash flow and balances of all cash funds, including investments. On a monthly basis, the Finance Director shall provide a report that shows the cash position from all sources that are accounted for in the cash accounts and investment accounts, along with bank and investment statements. The",
+        "source": "sample_fin_mgmt_policy",
+        "section": "CASH MANAGEMENT POLICY"
+      },
+      {
+        "score": 0.09021816896598445,
+        "context": "Report** – The Staff will prepare financial status reports on the revenues and expenditures to date and estimated yearend balances as described in the Budget Policies. c. **Budget Controls** – The Finance Department will maintain a system of budgetary controls. These controls will assist Department Directors in identifying actual to budget variances. 5. **Review of Efficiency and Effectiveness** – The County will continually review the efficiency and effectiveness of its services to reduce costs and improve service quality. This will include a review of all existing administrative procedures and software to eliminate exception-based procedures, policies implemented to avoid compliance, special interest projects or programs that benefit less than the majority. 6. **Recover Cost of Providing Services** – County operations will be run on a basis devoted to increasing efficiency of service delivery or recover the cost of providing the service by a user fee or charge. 7. **Cash Reserves** – The County will maintain cash reserves to avoid borrowing for general operating purposes.",
+        "source": "Financial Policies (PDF)",
+        "section": "Policies"
+      },
+      {
+        "score": 0.09018541617504952,
+        "context": "- A company proposing an affinity program to the LCC must be an active member and in good standing for at least one year.",
+        "source": "a_2.1_financial_policy_manual_lubbock_chamber_of_commerce_11.19",
+        "section": "Eligibility"
+      },
+      {
+        "score": 0.09014724710395515,
+        "context": "identifiable U.S. Government securities as prescribed by HUD and specific authority contained in the agreement permitting HUD to exercise its rights pursuant to 24 CFR § 1000.60. 6. The Tribe/TDHE is exempted from maintaining advance payments in interest bearing accounts if: a. The Tribe/TDHE receives less than $120,000 in federal awards per year; b. The best reasonably available interest-bearing account would not be expected to earn interest in excess of $500 per year; c. The depository requires an unreasonably high minimum average or balance for the Tribe/TDHE to maintain.",
+        "source": "sample_fin_mgmt_policy",
+        "section": "General"
+      },
+      {
+        "score": 0.08986070047215648,
+        "context": "federal regulations. The Tribe/TDHE must account for program income and must report program income on HUD Form 425.",
+        "source": "sample_fin_mgmt_policy",
+        "section": "General"
+      },
+      {
+        "score": 0.08913519120103902,
+        "context": "1. The Council/Board shall approve by resolution a spending and signing authority for the Council/Board, Executor Director, Finance Director and department managers to identify and enable authorized personnel to: a. Procure products and services through requisitions, check requests, or credit card services. b. Sign contracts and change orders for an authorized amount. c. Receive grants. d. Sign checks. 2. All checks require two authorized signatures. The Finance Director shall oversee the proper notification of the TRIBE/TDHE banks whenever authorized signature changes are made. 3. All debts representing allowable and authorized costs shall be paid promptly upon receipt of proper invoices/billing statements. 4. All disbursements shall be made by check. The Executive Director may approve other forms of disbursement, such as wire or electronic funds transfers. a. All checks shall be pre-printed and shall bear the name and address of the TRIBE/TDHE.",
+        "source": "sample_fin_mgmt_policy",
+        "section": "D. Cash Disbursement Control Procedures"
+      },
+      {
+        "score": 0.08841618164477467,
+        "context": "Because LCC receives hundreds of requests to support, publicize, and help organize a variety of community events, the following policies shall govern Chamber responses to such requests. The policies are designed to help ensure careful consideration in the face of finite Chamber resources and to provide a basis for fairly assessing each request. **Priorities** When a commitment is made to support a community event at some level, priority will be given to those events that complement the mission and budget of LCC. Priority will also be given to events and programs sponsored by LCC’s community partners. Nevertheless, given the large number of these activities, LCC will not be able to participate in all of the events and programs of its partners, even though LCC recognizes the value. **Financial Support** Because LCC has limited resources, it should not be assumed by any civic organization or group that LCC has funds designated or automatically budgeted for investment in events outside of Chamber functions. Assistance provided by LCC ordinarily will be in the form of in-kind services, such as assistance in promoting and publicizing an event rather than donating funds that otherwise would support the mission of LCC. If such in-kind services are provided, LCC should be listed as a contributing sponsor of the event. **Staff Support** While LCC recognizes the importance of volunteerism and is itself dependent on volunteers to fulfill its mission, Chamber staff is unable to honor all requests for their participation on planning and fundraising committees and boards associated",
+        "source": "a_2.1_financial_policy_manual_lubbock_chamber_of_commerce_11.19",
+        "section": "SECTION VI: Involvement with Community Events"
+      },
+      {
+        "score": 0.08749511186092576,
+        "context": "provided, LCC should be listed as a contributing sponsor of the event. **Staff Support** While LCC recognizes the importance of volunteerism and is itself dependent on volunteers to fulfill its mission, Chamber staff is unable to honor all requests for their participation on planning and fundraising committees and boards associated with community events and activities. If staff is obligated to attend unlimited numbers of outside meetings unrelated specifically to Chamber business, they are less able to further the mission of LCC. **Chamber Sponsorships** Given its limited resources to invest in outside events, programs, and activities, LCC must be selective in agreeing to sponsorships. Priorities as indicated above will rule decisions of this type. Once LCC has agreed to sponsor a specific event or activity, LCC should be listed as among sponsors but not made to appear as though it is hosting or planning the event. This policy is especially important when LCC has no control over the quality of the event or activity. Signed permission must be obtained from the LCC President for the use of its logo in connection with sponsorships.",
+        "source": "a_2.1_financial_policy_manual_lubbock_chamber_of_commerce_11.19",
+        "section": "SECTION VI: Involvement with Community Events"
+      },
+      {
+        "score": 0.08714693241402358,
+        "context": "All checks require an actual signature of the Chairman of the Board. The policy and procedures for processing invoices and accounts payables is as follows: 1) When the Administrative Secretary opens the mail, the invoices are placed in the accounting inbox. 2) The Administrative assistant enters invoices and matches with associated purchase orders into the accounting system.",
+        "source": "Sample-Nonprofit-Financial-Policies-and-Procedures-Manual-Resource",
+        "section": "Use of Check Requests"
+      },
+      {
+        "score": 0.08678834497368998,
+        "context": "2. Outside Involvement – The County will aggressively oppose State or Federal actions that mandate expenditures the Commissioners consider unnecessary. The County will purse intergovernmental funding to support the incremental cost of those mandates. 3. Intergovernmental Agreements – The County will work with other governments to identify the jurisdiction most capable and appropriate to provide specific public services. When the County cannot transfer responsibility for service delivery, it will consider intergovernmental agreements and contracts for service delivery.",
+        "source": "Financial Policies (PDF)",
+        "section": "General"
+      },
+      {
+        "score": 0.08668798328551372,
+        "context": "employee with knowledge of an incorrect or disputable charge fails to report such charge within a reasonable time, he or she may be liable to the TRIBE/TDHE for any resultant charges and may be subject to disciplinary action up to and including termination of employment. 6. Employees who incur ineligible or disallowed costs on company credit cards shall reimburse the TRIBE/TDHE for such charges within thirty (30) calendar days of",
+        "source": "sample_fin_mgmt_policy",
+        "section": "F. Credit Card Control Procedures"
+      },
+      {
+        "score": 0.08640904597614632,
+        "context": "In accordance with the LCC Bylaws, prior to the monthly board of directors meeting, an updated 90 day past due list of delinquent members is generated and presented to the board for approval of the cancellation of members who are 90 days past due. When a member requests cancellation of membership (usually soon after receiving a renewal invoice), the 90-day period is escalated, and cancellation is immediate. The reason for escalation is to prevent sending additional invoices after the member has requested cancellation.",
+        "source": "a_2.1_financial_policy_manual_lubbock_chamber_of_commerce_11.19",
+        "section": "Cancellations"
+      },
+      {
+        "score": 0.08633705643953665,
+        "context": "The County will identify the ongoing costs and benefits that may be associated with each capital project to determine its effect on other County policies and the Community.",
+        "source": "Financial Policies (PDF)",
+        "section": "Impact on County Policies and Community"
+      },
+      {
+        "score": 0.08594723723072029,
+        "context": "- The proposed program supports LCC's vision that it is a proactive, effective business advocate: recognized as a regional leader, and for sustaining the economic prosperity of our community. - The Chamber’s mission is also supported: strengthen, promote and serve our business community. - The program helps attract/recruit and retain Chamber members. - The applicant or program sponsor is a member of LCC. - The proposal fits or complements and does not overlap current product offerings. - The program presents tangible economic benefits for Chamber members.",
+        "source": "a_2.1_financial_policy_manual_lubbock_chamber_of_commerce_11.19",
+        "section": "Chamber's Vision and Mission"
+      },
+      {
+        "score": 0.08587834331167547,
+        "context": "In determining the allowable costs for federal awards, the TRIBE/TDHE must apply the following criteria to costs: • Be necessary, reasonable, and allocable; • Conform to any limitations or exclusions ; • Be consistent with policies and procedures; • Apply treatment of cost consistently; • Generally be treated in accordance with generally accepted accounting principles (GAAP); The TRIBE/TDHE must adequately document costs to include, compliance with statutory and national policy requirements and be able to prepare reports that measures performance (for example, SF-425 and the Annual Performance Report (APR). The NAHASDA program specifically excludes certain costs, and therefore, no costs associated with these activities shall be charged to the program. These exceptions are listed at 1000.26(a). The TRIBE/TDHE shall have written procedures for determining the allowability of costs that comply with the terms and conditions of the federal award as outlined in this section.",
+        "source": "sample_fin_mgmt_policy",
+        "section": "General"
+      },
+      {
+        "score": 0.08536423312872957,
+        "context": "- The checks print in three (3) parts: The check and one stub showing remittance advice is sent out for payment. The second stub is filed by vendor, with supporting documentation attached. - All voided checks must be defaced and retained numerically, either in a file or with canceled checks. - No checks may be written to “cash” or “petty cash” except to obtain startup cash for a specific event, or travel cash. The event name or purpose must be specified in the payee field with full documentation of purpose attached. - Blank checks are stored in a secure drawer. - The Accounting Assistant is responsible for invoices and check requests being filed in the appropriate vendor file once they have been paid. - Blank checks may never be signed in advance.",
+        "source": "a_2.1_financial_policy_manual_lubbock_chamber_of_commerce_11.19",
+        "section": "Financial Policies"
+      },
+      {
+        "score": 0.08473405820584404,
+        "context": "It is the responsibility of all directors, officers and employees to comply with the Code and to report violations or suspected violations in accordance with this Whistleblower Policy.",
+        "source": "Sample-Nonprofit-Financial-Policies-and-Procedures-Manual-Resource",
+        "section": "Reporting Responsibility"
+      },
+      {
+        "score": 0.08465350045082913,
+        "context": "All staff, Board and Committee members, and volunteers will: • Be open and honest with colleagues, stakeholders, volunteers, donors, and all others involved in the Organization; • Abide by the by-laws and policies of the Organization; • Take responsibility for their actions, and care in their dealings as representatives of our Organization; • Exercise best governance and accounting practices and procedures; • Use the resources of the Organization in a responsible and wise manner; • Promote financial transparency while working to fulfill the mission of the Organization. All who serve in a position of authority over the Organization will: • Place the Organization above other interests, financial or otherwise; • Act in the best interest of the Organization; • Disclose any actual or perceived conflict of interest.",
+        "source": "Sample-Nonprofit-Financial-Policies-and-Procedures-Manual-Resource",
+        "section": "Accountability and Responsibility"
+      },
+      {
+        "score": 0.08462062485289842,
+        "context": "An effective and comprehensive periodic Citizen Service needs assessment will be conducted to ensure County service priorities keep pace with the dynamic needs of the Community. The result of this needs assessment will be approved by the Commissioners and may become an integral part of the budget and financial planning of the County.",
+        "source": "Financial Policies (PDF)",
+        "section": "Citizen Input"
+      },
+      {
+        "score": 0.08376643351144261,
+        "context": "LCC receives credit card payments for membership investments, sponsorships, event payments and other purposes. All credit card information is delivered to the CSR upon receipt. The CSR prepares and processes a compilation of credit card payments which is delivered, along with all credit card information, to the Accounting Assistant for posting. The database and other accounting records are updated from the compilation and attached credit card information. This information may be maintained for a reasonable period of time by the CFO and shall be secure when not attended. Periodically, all credit card information will be destroyed by shredding. No member credit card information will be maintained in LCC office or by Chamber employees after delivery to the CSR unless the customer request that the information be kept on file for future use.",
+        "source": "a_2.1_financial_policy_manual_lubbock_chamber_of_commerce_11.19",
+        "section": "Credit Card Receipts"
+      },
+      {
+        "score": 0.08261219926724087,
+        "context": "payroll service is responsible for payroll tax deposits and automatically withdraws the appropriate funds from LCC’s operating account.",
+        "source": "a_2.1_financial_policy_manual_lubbock_chamber_of_commerce_11.19",
+        "section": "Financial Policies"
+      },
+      {
+        "score": 0.08245665043227021,
+        "context": "Contracts, mortgages, notes, and leases (expired) 7 Years Correspondence: General (Customers, Vendors, etc.) 2 Years Legal and important matters only Permanently Deeds, mortgages, and bills of sale Permanently Determination letter for income tax exemption Permanently Depreciation schedules Permanently Duplicate deposit slips 2 Years Employment applications 3 Years Expense analyses/expense distribution schedule 7 Years Financial statements: Year end Permanently Other Optional General ledgers/year end trial balance Permanently Insurance policies (expired) 3 Years Insurance records (policies, claims, etc.) Permanently Internal audit reports 3 Years Internal reports 3 Years Invoices (to customers, from vendors) 7 Years Minute books of directors, bylaws and charters Permanently Notes receivable ledgers and schedules 7 Years Payroll records and summaries 7 Years Personnel records (terminated) 7 Years Property records (incl. depreciation schedules) Permanently Purchase orders: Purchasing department copy 7 Years Other copies 1 Year Retirement and pension records Permanently Tax returns and worksheets, examination reports and other documents relating to IRS determination Permanently Time sheets/cards 7 Years Trademark registrations and copyrights Permanently Training manuals Permanently Withholding tax statements 7 Years",
+        "source": "Sample-Nonprofit-Financial-Policies-and-Procedures-Manual-Resource",
+        "section": "General"
+      },
+      {
+        "score": 0.08238696431151966,
+        "context": "The recent state of business scandals has focused attention on the importance of well developed and communicated code of conduct in promoting a culture of honesty and ethical behavior and deterring unethical business activity. To be effective, a code of conduct must be well communicated to, and understood by, those expected to adhere to it. The code of conduct should be presented to Agency personnel and conduct periodic training sessions to ensure that they remain aware of the code and understand its implications for their behavior. Our Organization is committed to the highest possible ethical standards and we encourage everyone associated with our Organization to commit to acting in the best interest of the organization and its mission. Our mission demands that we, Board and Committee Members, staff and volunteers, as stewards of our mission, uphold the public trust and act in an ethical manner in all that we do in the name of our Organization. These ethical values include integrity, openness, honesty, accountability, fairness, respect and responsibility. These values are the basis of our Code of Conduct and commitment to act in a manner befitting the Organization and mission.",
+        "source": "Sample-Nonprofit-Financial-Policies-and-Procedures-Manual-Resource",
+        "section": "Code of Conduct"
+      },
+      {
+        "score": 0.08226555496436652,
+        "context": "The TRIBE/TDHE must be able to produce accurate, current, and complete disclosure of the financial results of each of the financially assisted activities made in accordance with the financial reporting requirements of the grant or subgrant. The TRIBE/TDHE shall use the financial reports as tools to manage, control, ensure compliance, monitor, and inform the TRIBE/TDHE on its financial activities. a. Reports to Grant Agencies: The TRIBE/TDHE shall complete and submit all reports to Federal, State, and local grant agencies in accordance with, and in the format and timelines required by the agency. The Finance Director shall oversee all administrative and financial reports, including the HUD Standard Form 425 (Quarterly Transaction Report), the IHP and the APR, before the due dates designated by HUD, as such forms and deadlines may change from time to time. b. Management and Council/Board reports: The TRIBE/TDHE shall prepare and make available to management and the Council/Board on a monthly basis, financial reports to include: • Statement of Net Position. • Statement of Revenues, Expenses, and Changes in Net Position. • Statement of Cash Flow. • Budget to actual reports detailing significant variances of sources and uses of funds as a management tool.",
+        "source": "sample_fin_mgmt_policy",
+        "section": "FINANCIAL REPORTS"
+      },
+      {
+        "score": 0.08171521280244791,
+        "context": "economic activity. 3. Recapture Investment – The revenue structure should be designed to recapture for the County some of the financial benefits resulting from County sponsored programs or Community investments. 4. Additional Resources – The County will observe the following priorities in obtaining resources: a. Use Existing Resources Efficiently – The County will use, as efficiently as possible, all existing resources. b. Collect Existing Revenues – The County will collect as efficiently as possible the resources to which it is already entitled. The County will minimize receivables and follow an aggressive policy of collecting receivables for services that must be billed. c. Revenues are Consistent with County Goals – The County will seek new resources, consistent with the policies in this document and other County goals.",
+        "source": "Financial Policies (PDF)",
+        "section": "IV. REVENUE POLICIES"
+      },
+      {
+        "score": 0.08133567001449887,
+        "context": "It is the policy of Nonprofit Organization that bank deposits will be made twice per week, unless the total amount received for deposit is more than $5,000. In no event shall deposits be made less frequently than weekly.",
+        "source": "Sample-Nonprofit-Financial-Policies-and-Procedures-Manual-Resource",
+        "section": "Timeliness of Bank Deposits"
+      },
+      {
+        "score": 0.08112362334759728,
+        "context": "The County will follow the following operating policies: 1. **Current Revenues to Pay for Current Expenditures** – Current revenues will exceed current expenditures. Each County fund budget must identify ongoing resources that at least match expected ongoing annual requirements. One time cash transfers and ending balances, in excess of reserves, may be applied to reserves or to fund one-time expenditures; they will not be used to fund on-going programs. 2. **Do Not Restrict Revenues** – The County will earmark discretionary revenues for specific purposes. This practice will preserve the ability of the Commissioners to determine the best use of available revenues to meet changing service requirements. 3. **Reserves** – The County will establish reserves for emergencies, unforeseen needs of a nonrecurring nature, operating maintenance, equipment replacement and capital projects. The nature of reserves for specific funds will be spelled out in the State of Purpose for each fund. 4. **Financial Controls** – The Staff will maintain a system of financial monitoring and control. The major components of this system include: a. **Fiscal Impact Analysis** – The Staff will perform a fiscal impact analysis of each significant administrative or legislative action impacting the County. b. **Financial Accounting System and Periodic Status Report** – The Staff will prepare financial status reports on the revenues and expenditures to date and estimated yearend balances as described in the Budget Policies. c. **Budget Controls** – The Finance Department will maintain a system of budgetary controls. These controls will assist Department Directors in identifying actual to",
+        "source": "Financial Policies (PDF)",
+        "section": "Policies"
+      },
+      {
+        "score": 0.0810901654910359,
+        "context": "The Board of Directors has the authority to execute any policies it deems to be in the best interest of the organization within the parameters of the organization’s articles of incorporation, bylaws, or federal, state, and local law. The Board of Directors, in compliance with Chamber bylaws, shall schedule an annual audit of the financial statements of LCC by an independent certified public accountant.",
+        "source": "a_2.1_financial_policy_manual_lubbock_chamber_of_commerce_11.19",
+        "section": "Board of Directors"
+      },
+      {
+        "score": 0.08091006548612242,
+        "context": "5) Employee insurance coverages need to be reviewed annually. The Executive Director will work with the insurance broker to identify various insurance options to present to the Finance Committee. 6) The Executive Director will work insurance claims agent on Workmen’s Comp claim rates and classification of employees.",
+        "source": "Sample-Nonprofit-Financial-Policies-and-Procedures-Manual-Resource",
+        "section": "General"
+      },
+      {
+        "score": 0.08050435660346543,
+        "context": "condition. The County will follow a policy of full disclosure on every financial report and bond prospectus. 2. **Five Year Capital Plans** – Each Department with capital expenditures will develop and maintain five-year capital plans. This plan will include sources of funding and maintenance. 3. **Citizen Involvement** – The CIP development process will provide for the full participation of any Citizen and or Committee appointed by Commissioners. 4. **Details of the Plan** – The County will prepare, adopt and update annually a County five-year CIP that identifies Department needs for capital replacement and additions. The CIP lists all anticipated capital expenditures, total estimated cost, the year in which it will be started, the amount expected to be expended in each year, and the proposed method of financing these expenditures. Methods of financing can include bonding, assessment of districts, pay-as-you-go (taxes, current revenues, cash balances), or others. 5. **Include Future Maintenance** – As a part of the annual Capital Budget, the County will identify and include full costs of future maintenance needs and operating costs of new capital facilities and equipment prior to funding as part of the annual Capital Budget. It is essential to recognize many smaller projects can have a significant impact on the existing Staff and maintenance levels when you consider the total impact. All capital projects will identify the maintenance requirements in terms of staffing (hours per week) and supplies and services.",
+        "source": "Financial Policies (PDF)",
+        "section": "VI. CAPITAL PLANNING & BUDGET POLICIES"
+      },
+      {
+        "score": 0.08040450290094102,
+        "context": "- The vendor does not rely on Chamber staff for marketing and customer service. - The vendor has processes and procedures in place to ensure good customer relationships that reflect positively on LCC.",
+        "source": "a_2.1_financial_policy_manual_lubbock_chamber_of_commerce_11.19",
+        "section": "Marketing and Customer Service"
+      },
+      {
+        "score": 0.0801555799765726,
+        "context": "Capital assets means tangible or intangible assets used in operations having a useful life of more than one year which are capitalized in accordance with GAAP. Capital assets include: • Land, buildings (facilities), equipment, and intellectual property (including software) whether acquired by purchase, construction, manufacture, lease-purchase, exchange, or through capital leases; and • Additions, improvements, modifications, replacements, rearrangements, reinstallations, renovations or alterations to capital assets that materially increase their value or useful life (not ordinary repairs and maintenance). The TRIBE/TDHE shall comply with its capital asset policy and procedures that provides guidance for employees to manage and safeguard the TRIBE/TDHE’s capital assets, including active management of assets with processes in place for tracking additions through purchases and donations, disposition, and depreciation.",
+        "source": "sample_fin_mgmt_policy",
+        "section": "13. CAPITAL ASSETS"
+      },
+      {
+        "score": 0.07966721943700389,
+        "context": "Table of Contents SECTION I: Basic Policy Statement ......................................................................................................................................................... 3 SECTION II: Line of Authority ..................................................................................................................................................................... 4 Board of Directors ................................................................................................................................................................................... 4 Executive Committee .............................................................................................................................................................................. 4 Treasurer and The Finance Committee ................................................................................................................................................... 4 President and Board Secretary ................................................................................................................................................................. 4 CFO .......................................................................................................................................................................................................... 4 Vice Presidents, Divisions and Program Directors .................................................................................................................................. 4 SECTION III: Indemnity Policy ................................................................................................................................................................... 5 SECTION IV: Investment Policy .................................................................................................................................................................. 5 General Investment Guidelines ............................................................................................................................................................... 5 Reserve Policy ......................................................................................................................................................................................... 5 SECTION V: Policy for Services Provided by Members .............................................................................................................................. 5 SECTION VI: Involvement with Community Events .................................................................................................................................. 6 Priorities ................................................................................................................................................................................................. 6 Financial Support .................................................................................................................................................................................... 6 Staff Support .......................................................................................................................................................................................... 6 Chamber Sponsorships ........................................................................................................................................................................... 6 SECTION VII: Criteria for Endorsements and Affinity Programs ................................................................................................................. 7 Chamber's Vision and Mission ............................................................................................................................................................... 7 Eligibility ................................................................................................................................................................................................. 7 Revenue Stream ..................................................................................................................................................................................... 7 Local Competition .................................................................................................................................................................................. 7 Marketing and Customer Service ........................................................................................................................................................... 7 Product Timeline .................................................................................................................................................................................... 8 FINANCIAL CONTROLS AND OPERATING PROCEDURES ............................................................................................................................... 9 SECTION VIII: Financial Controls ........................................................................................................................................................... 9 Operating Procedures .............................................................................................................................................................................. 9 Separation of Duties ................................................................................................................................................................................. 9 Financial Reporting .................................................................................................................................................................................. 9 Safeguarding Assets ............................................................................................................................................................................... 10 Fixed Assets ........................................................................................................................................................................................... 10 Payroll Controls ..................................................................................................................................................................................... 11 Accounting System Controls .................................................................................................................................................................. 11 Disbursements ....................................................................................................................................................................................... 11 Receipts ................................................................................................................................................................................................. 12 Credit Card Receipts .............................................................................................................................................................................. 12 SECTION IX: Accounting Procedures ....................................................................................................................................................... 13 Billings and Receivables ......................................................................................................................................................................... 13 New Members ....................................................................................................................................................................................... 13 Renewals ............................................................................................................................................................................................... 13 Past Due Accounts ................................................................................................................................................................................ 13 Cancellations ......................................................................................................................................................................................... 14 Database Changes ................................................................................................................................................................................ 14 Programs/Events ................................................................................................................................................................................... 14 Sponsorships ......................................................................................................................................................................................... 14 Cash Receipts ........................................................................................................................................................................................ 14 Credit Card Receipts .............................................................................................................................................................................. 15 Payroll ................................................................................................................................................................................................... 15 Bank Reconciliations ............................................................................................................................................................................. 17 Accounts Payable ..................................................................................................................................................................................",
+        "source": "a_2.1_financial_policy_manual_lubbock_chamber_of_commerce_11.19",
+        "section": "Financial Policies"
+      },
+      {
+        "score": 0.07964036811244307,
+        "context": "Accounting Department A lock will be maintained on the door leading into the Administrative Assistant’s Office. This door shall be closed and locked in the evenings. The key/combination to this lock will be provided to all employees. Nonprofit Organization’s blank check stock shall be stored in a fireproof file cabinet of the Administrative Assistant’s Office. This cabinet will be locked with a key that is kept in the Administrative Assistant’s Office. Access to this file cabinet shall be by keys in the possession of the Administrative Assistant and Executive Director. Access to Electronically Stored Accounting Data It is the policy of Nonprofit Organization to utilize passwords to restrict access to accounting software and data. Only duly authorized accounting personnel with data input responsibilities will be assigned passwords that allow access to the system. Accounting personnel are expected to keep their passwords secret and to change their passwords on a regular basis, no less frequently than quarterly. Administration of passwords shall be performed by a responsible individual independent of programming functions. Each password enables a user to gain access to only those software and data files necessary for each employee's required duties.",
+        "source": "Sample-Nonprofit-Financial-Policies-and-Procedures-Manual-Resource",
+        "section": "Security"
+      },
+      {
+        "score": 0.07957457623183076,
+        "context": "Only cash necessary to meet anticipated day-to-day expenditures, plus a reasonable corpus for emergencies shall be kept available. Any excess cash shall be invested in a liquid, income-producing instrument or account as approved by the Finance Committee / Executive Committee. The investment objectives of LCC, in order of importance, shall be the safety of principal, liquidity, and a competitive rate of return. **General Investment Guidelines** The Finance Committee shall have primary responsibility for the administration of the investment policy and for establishing any specific guidelines as to the mix and quality of the investment account(s). **Delegation of Responsibility** - Should include internal groups/individuals, i.e., Board of Directors, Treasurer, Finance Committee, President and CFO. - Should also include external groups such as investment managers, bank custodians and investment consultants. **Reserve Policy** LCC recognizes that it relies on revenue sources which may be variable beyond its control, but provides services that must be consistently delivered. In order to ensure continuity of LCC’s function in all divisions, LCC will maintain a board restricted reserve for each division and overall for LCC.",
+        "source": "a_2.1_financial_policy_manual_lubbock_chamber_of_commerce_11.19",
+        "section": "SECTION IV: Investment Policy"
+      },
+      {
+        "score": 0.07944053648037488,
+        "context": "received. Deposits are prepared and taken to the bank by the administrative assistant. Administrative assistant enters the cash receipts into accounting system.",
+        "source": "Sample-Nonprofit-Financial-Policies-and-Procedures-Manual-Resource",
+        "section": "General"
+      },
+      {
+        "score": 0.07924977919458036,
+        "context": "I. PURPOSE: In accordance with NAHASDA 1000.56: a. Each year, funds shall be paid directly to recipients (Tribe/TDHE) in a manner that recognizes the right of Indian self-determination and tribal self-governance and the trust responsibility of the Federal government to Indian tribes consistent with NAHASDA. b. Payments shall be made as expeditiously as practicable. As a federal grant, the NAHASDA funds must comply with the Uniform Guidance requirement cited in 200.302(6), which requires written procedures to implement the requirements of 200.305 Payments. The written procedures on 200.305 Payments are part of the Tribes/TDHE’s Financial Management Policy. GRANT DRAWDOWN: Recipients of NAHASDA federal grant funds must draw funds following HUD’s specific procedures, with the use of eLOCCS system, which is HUD’s primary grant and subsidy disbursement system that handles disbursement and cash management for the majority of HUD grant programs, including IHBG, ICDBG, and NHHBG funds. Only eligible NAHASDA program expenses are paid with IHBG grant funds. To access eLOCCS, the Tribe/TDHE must register in Secure Systems to access the eLOCCS online. 1. Submit a HUD-27054 LOCCS Access Authorization form, which will specify the Business Partner(s) and HUD Programs you are authorized to access within eLOCCS. Each eLOCCS user must submit a HUD-27054. - The form specifies the Business Partner(s) and HUD Programs the user is authorized to access within eLOCCS. - A Tribe may allow multiple authorized users to query or draw down funds. - The form is to be approved by the recipient’s or grantee’s Executive Director, Administrator or",
+        "source": "sample_fin_mgmt_policy",
+        "section": "APPENDIX 2: PROCEDURES TO IMPLEMENT THE REQUIREMENTS OF 200.305 PAYMENT"
+      },
+      {
+        "score": 0.07923472916154456,
+        "context": "Upon confirmation of the sale of a sponsorship, either single or a sponsorship package, posting should be entered into the event management system for billing. When payment is received it should follow the Receipts procedures in this document.",
+        "source": "a_2.1_financial_policy_manual_lubbock_chamber_of_commerce_11.19",
+        "section": "Sponsorship"
+      },
+      {
+        "score": 0.07857213496068088,
+        "context": "reimbursements of business expenses that have been accounted for by the contractor by supplying receipts and business explanations. If an individual qualifies as an employee, a personnel file will be created for that individual and all documentation required by the Youth personnel policies shall be obtained. The policies described in the remainder of this section shall apply to all workers classified as employees.",
+        "source": "Sample-Nonprofit-Financial-Policies-and-Procedures-Manual-Resource",
+        "section": "General"
+      },
+      {
+        "score": 0.07825699017464832,
+        "context": "The County will budget expenditures for grant-funded programs only after grant award or letter of commitment and only for the grant amount. County overhead or indirect costs for grant-funded programs will be included in all grant proposals, where permitted. All grants will be reviewed for long-term impacts on the County.",
+        "source": "Financial Policies (PDF)",
+        "section": "Payment of Services"
+      },
+      {
+        "score": 0.07680774457423684,
+        "context": "- All invoices received are stamped with the date received by the CSR and are directed to the CFO. - The CFO approves all invoices and expenditures. - Approved invoices will then be directed to the Accounting Assistant for entry into the accounts payable system. - All invoices from unfamiliar or unusual vendors must be reviewed by the CFO for approval. - Standard payment terms are net 30 days. Any agreement with a supplier contrary to standard terms must first be discussed with the CFO. - New vendors will be set up in the accounting system and sent a request for tax pay payer information (Form W-9). W-9 Forms are maintained by the Accounting Assistant.",
+        "source": "a_2.1_financial_policy_manual_lubbock_chamber_of_commerce_11.19",
+        "section": "Accounts Payable"
+      },
+      {
+        "score": 0.07648285461661805,
+        "context": "- The proposal adequately describes the expected life cycle of the product and anticipated market behavior, including the projection of a certain number of early adopters, before the product would be accepted by general membership. - The proposal defines specific goals of the product upon which a continued relationship with LCC will be based. - The proposal contains measurable indicators of program success. - The program is terminable on a specific date consistent with the nature of the product and the marketing plan and may be terminated for cause at any time for failure to meet projections or for any other cause detrimental to LCC or its image. - The program does not require an exclusive relationship with LCC in the absence of extraordinary circumstances.",
+        "source": "a_2.1_financial_policy_manual_lubbock_chamber_of_commerce_11.19",
+        "section": "Product Timeline"
+      },
+      {
+        "score": 0.07634189858457054,
+        "context": "6. A bank deposit slip shall be prepared and shall include each of the cash receipt numbers making up the deposit and complete details as to the amount of coin, currency and checks. An employee of the Finance Department of the TRIBE/TDHE (other than the employee who issued and/or previously handled the cash receipts) shall reconcile the receipts. 7. All payments shall be deposited intact with the appropriate deposit slip to provide an additional record. Under no circumstances shall any disbursements be made from payments received. 8. Payments received shall be recorded in the individual resident accounts receivable records on the day of receipt or as soon thereafter as practical, even when the money is not deposited on the same day. Cash receipt numbers shall be recorded on both the deposit slip and the resident account receivable records. 9. The employee designated by the Department Director as having responsibility for tenant ledger maintenance shall be responsible for posting the resident accounts receivable records. The Finance Director of the TRIBE/TDHE or his/her designee shall make the bank deposits.",
+        "source": "sample_fin_mgmt_policy",
+        "section": "General"
+      },
+      {
+        "score": 0.07575826922601935,
+        "context": "- All checks are received and stamped with “Deposit only” stamp immediately upon receipt by the Customer Service Representative (CSR). - The CSR will be responsible for preparing the check log of all receipts since the last completed deposit and making copies of all receipts. - The check log will be given to the CFO. - Copies of all receipts are given, with the actual receipts to the Accounting Assistant, who posts the receipts to the accounts receivable system or general ledger (amount, date received, account number, etc.) - Copies of all receipts are filed with the daily deposit reports in the office of the CFO. - A summary listing is compared by the CFO to the CSR’s check log to ensure all postings equal amounts deposited.",
+        "source": "a_2.1_financial_policy_manual_lubbock_chamber_of_commerce_11.19",
+        "section": "Receipts"
+      },
+      {
+        "score": 0.07575388965617649,
+        "context": "A liability that places a future contractual or other obligation against future revenues of the County. For example, long term debt includes liabilities arising from bonds, lease purchase agreements and installment purchase contracts. - **Use of Capital** – The County will confine long-term borrowing to capital improvements or projects that cannot be financed from current revenues. - **Life of Bonds Not to Exceed 75% of Project Life** – When the County finances capital projects by issuing bonds, it will pay back the bonds within a period not to exceed 75% of the expected useful life of the project. - **Debt Restrictions** – The County will not use long-term debt for current or annual operations. - **Legal Debt Limits** – The County will review its legal debt limitation established by the State Charter at least annually. Debt limits will be included in the statistics sections of the Financial Plan and Financial Report.",
+        "source": "Financial Policies (PDF)",
+        "section": "Long Term Debt"
+      },
+      {
+        "score": 0.0747238863473536,
+        "context": "The Staff may submit requests to amend the approved budget during the year. Additional requests will be made only after the Staff has determined no savings exist that could be transferred. Departments will provide information to the Commissioners during regular Commissioners’ meetings. Departments may not expend funds until after the Commissioners have approved the expenditure. The Finance Department will prepare an appropriation resolution officially amending the budget. Departments may expend funds after Commissioners approval and before adoption of the appropriation resolution. a. Transfer of Existing Budget – The County Manager may approve transfer of budget between categories and Departments within a fund. b. Transfers Between Categories and Programs – Department Directors may request County Manager approval to transfer budget between categories within a department. The Manager will review requests to ensure compliance with the goals and objectives of the annual budget as approved by the Commissioners.",
+        "source": "Financial Policies (PDF)",
+        "section": "Amending the Approved Budget"
+      },
+      {
+        "score": 0.07384503143318258,
+        "context": "In the administration of federal, state and local government awards, the TRIBE/TDHE’s financial management system must be set up so that it can provide for the following: The TRIBE/TDHE must maintain adequate accounting records that are supported by source documents which are the basis for the accounting transactions that are",
+        "source": "sample_fin_mgmt_policy",
+        "section": "ACCOUNT RECORDS, IDENTIFICATION, AND SOURCE DOCUMENTS"
+      },
+      {
+        "score": 0.07330212898399512,
+        "context": "In general, the following guidelines will be used to identify capital priorities: safety, completing existing projects, maintaining of existing capital facilities, extensions of existing systems and new projects. Maintenance should be given priory over acquisition of new facilities unless a cost-benefit analysis indicates the contrary. State, Federal and Local mandates or new service demands may require acquisition of new facilities or new construction even when maintenance needs are not fully met. Unique opportunities may arise, which should be considered as a priority, particularly if there is Community support for acquisition. Maintenance of facilities should take priority over operating programs if deferring maintenance will result in great costs to restore or replace neglected facilities.",
+        "source": "Financial Policies (PDF)",
+        "section": "Capital Priority"
+      },
+      {
+        "score": 0.07328473709034118,
+        "context": "3. Original or certified copy of a birth certificate issued by a state, county or municipal authority 4. Certificate of Birth Abroad issued by the Department of State (Form FS-545 or Form DS-1350) 5. U.S. Citizen ID Card (INS Form I-197) 6. Native American tribal document 7. ID Card for use of Resident Citizen in the United States (INS Form I-179) Each employee payroll file shall also indicate whether the employee is exempt or non-exempt from the provisions of the Fair Labor Standards Act. New hires, terminations, and changes in salaries or pay rates shall be authorized in writing by the executive director. The executive director payroll changes are determined by the board of directors. Voluntary payroll deductions and changes in income tax withholding status shall be authorized in writing by the individual employee. Documentation of all changes in payroll data shall be maintained in each employee’s personnel file.",
+        "source": "Sample-Nonprofit-Financial-Policies-and-Procedures-Manual-Resource",
+        "section": "General"
+      },
+      {
+        "score": 0.07278654489096709,
+        "context": "key aspect of the regular business of Nonprofit Organization If an individual qualifies for independent contractor status, the individual will be sent a Form 1099 if total compensation paid to that individual for any calendar year, on the cash basis, is $600 or more. The amount reported on a Form 1099 is equal to the compensation paid to that person during a calendar year (on the cash basis). Excluded from “compensation” are",
+        "source": "Sample-Nonprofit-Financial-Policies-and-Procedures-Manual-Resource",
+        "section": "General"
+      },
+      {
+        "score": 0.07276452511385596,
+        "context": "The TRIBE/TDHE is authorized to maintain a petty cash fund of $_____. The purpose of the fund is to have a small amount of cash available for paying small amounts owed, rather than writing a check. The petty cash shall be in the safekeeping of the designated custodian who shall keep track of payouts from the fund with receipts. At all times, the amount of cash on hand and the receipts must total the amount of authorized petty cash. When the cash in the petty cash fund is low, the custodian shall request a check to replenish the cash that has been paid out. The fund shall be subject to surprise audits.",
+        "source": "sample_fin_mgmt_policy",
+        "section": "15. PETTY CASH"
+      },
+      {
+        "score": 0.07237591571161656,
+        "context": "The Tribe/TDHE may seek reimbursement for incurred, eligible expenses in two ways: a. eLOCCS REQUEST FOR EXPENSE REIMBURSEMENT: The Tribe/TDHE may make reimbursement requests through the eLOCCS as often as it needs the funds to reimburse itself for eligible expenses incurred and paid for with available working capital. b. IHBG INVESTMENT WITHDRAWAL FOR EXPENSE REIMBURSEMENT: If the Tribe has been approved to draw down its entire IHBG funds for investment, it will periodically need to draw from the investment account to pay for the NAHASDA related expenses it has incurred. c. REIMBURSEMENT PROCEDURES: The Tribe/TDHE general ledger should be set up to account for specific program expenses. On a periodic basis (for example, weekly or monthly) the Finance department runs a schedule of NAHASDA Revenue and Expense report to determine the amount of IHBG grant funds that have been recorded to offset eligible NAHASDA expenses. Because the Tribe/TDHE seeks reimbursement after incurring and recording the program expenses, the difference between the recorded IHBG grant revenues and the recorded total eligible IHBG expenses is the amount of program expenses that the Tribe/TDHE needs to be reimbursed, either through eLOCCS or by drawing down from the IHBG investment account.",
+        "source": "sample_fin_mgmt_policy",
+        "section": "IV. REIMBURSEMENT PAYMENTS"
+      },
+      {
+        "score": 0.07203821776540961,
+        "context": "LCC receives a broad variety of services from its members. These include liability insurance, health insurance, banking services, payroll services, office equipment and others. It will be the responsibility of Chamber staff to obtain these and similar services at the most effective cost. It is recognized, however, that a formal request for proposal is not always warranted. When a Chamber officer, director or staff member is notified that a specific Chamber service is provided and can be provided competitively by a member who is not providing the service to LCC, a request for proposal for that service will be issued in advance of the next renewal date of",
+        "source": "a_2.1_financial_policy_manual_lubbock_chamber_of_commerce_11.19",
+        "section": "SECTION V: Policy for Services Provided by Members"
+      },
+      {
+        "score": 0.07189392059272542,
+        "context": "6. Budget Presentation – The annual budget document will be prepared based on guidelines identified by the Government Finance Officers Association (GFOA). Traditionally, this begins with an introduction to the budget followed by more detailed information presented by the fund and department. The budget introduction includes a budget message and a highlights section identifying the major issues addressed by the County and how the budget is adopted to address those issues. Expenditures shall be presented by department and categories. 7. Citizen Participation – The budget process will provide for the full participation of the public and ensure opportunities for public hearings and citizen participation. 8. Public Hearings – Open public hearings at regularly scheduled Commissioners meetings and Work Sessions as required by statute. 9. State and Other Requirements – The County will adopt the budget in accordance to State and other requirements and certify the mill levy. 10. Non-Profit Contributions – Groups requesting grants from the County shall provide their organizations’ financial information, annual report and a copy of their approved 501(c) 3 status in addition to all other information requested.",
+        "source": "Financial Policies (PDF)",
+        "section": "General"
+      },
+      {
+        "score": 0.07181346610563681,
+        "context": "The Executive Committee has responsibility for business in the interim between meetings of the Board of Directors. It shall supervise and attend to fiscal matters of LCC and may refer matters to a proper committee or to the Board of Directors.",
+        "source": "a_2.1_financial_policy_manual_lubbock_chamber_of_commerce_11.19",
+        "section": "Executive Committee"
+      },
+      {
+        "score": 0.0715179389120561,
+        "context": "The County will follow these policies related to check controls and the signing of checks: 1. Invoice Controls – All invoices shall be mailed or emailed to the Department that holds the approved contract, professional services agreement, or spending authority. The vendor shall date, number and reference an approved contract, professional services agreement, or purchase order number on the invoice. Department staff will process and approve the invoice and include correct coding before getting their supervisor’s approval and submitting it to the Finance Department’s Accounts Payable. 2. Check Preparation – No check will be prepared for approval without an authorized purchase order, compliance with the procurement code and adequate budget unless specifically identified in these policies. 3. Check Requirements – In most cases the Staff will be required to complete the following steps to obtain a check: a. Budget – Adequate budget must exist before Staff considers a purchase. b. Invoices – Invoices are directed first to the Finance Department for entry into the account system cash flow.",
+        "source": "Financial Policies (PDF)",
+        "section": "C. Check Controls"
+      },
+      {
+        "score": 0.07031504994422526,
+        "context": "a. Single Audit: If the TRIBE/TDHE expends $750,000 or more of federal funds during the fiscal year, it is subject to a single audit and must comply with the scope of audit within the Uniform Grant Guidance where auditor shall test for the TRIBE/TDHE’s: I. Compliance with the requirements of the federal program, and II. Internal Control over the compliance of the program. b. Audit Findings and follow-up: The TRIBE/TDHE shall submit the audit to HUD with the Annual Performance Report (“APR”). The TRIBE/TDHE shall develop a plan to correct all deficiencies (if any) noted in the audit and shall implement sufficient and appropriate corrective actions in order to preclude repeat findings in subsequent audits. The TRIBE/TDHE shall be required to describe in the audit document, reasons for the reoccurrence of the finding, planned corrective action, and any partial corrective action taken. c. Report Submission: The audit shall be submitted to the Federal Audit Clearinghouse (FAC) within thirty (30) days after receipt of the auditor’s report, or nine (9) months after the end of the audit period, whichever is earlier. d. The TRIBE/TDHE may opt not to authorize the FAC to make the reporting package publicly available on a website. If the TRIBE/TDHE chooses this option, it shall be responsible for submitting the reporting package directly to any pass-through entities through which it has received a Federal award and to pass-through entities for which the summary schedule of prior audit findings reported the status of any findings related to Federal",
+        "source": "sample_fin_mgmt_policy",
+        "section": "General"
+      }
+    ]
+  }
+]
